@@ -1,0 +1,4917 @@
+{
+  "north and middle andaman": {
+    "city": "north and middle andaman",
+    "latitude": "12.651883",
+    "longitude": "92.897625"
+  },
+  "nicobars": {
+    "city": "nicobars",
+    "latitude": "10.387144",
+    "longitude": "84.135297"
+  },
+  "anantapur": {
+    "city": "anantapur",
+    "accentcity": "Anantapur",
+    "region": "28",
+    "population": null,
+    "latitude": "22.105",
+    "longitude": "88.114167"
+  },
+  "chittoor": {
+    "city": "chittoor",
+    "accentcity": "Chittoor",
+    "region": "02",
+    "population": null,
+    "latitude": "13.2",
+    "longitude": "79.116667"
+  },
+  "east godavari": {
+    "city": "east godavari",
+    "accentcity": "East Godavari",
+    "region": "02",
+    "population": null,
+    "latitude": "16.933333",
+    "longitude": "82.216667"
+  },
+  "guntur": {
+    "city": "guntur",
+    "accentcity": "Guntur",
+    "region": "02",
+    "population": "530636",
+    "latitude": "16.3",
+    "longitude": "80.45"
+  },
+  "krishna": {
+    "city": "krishna",
+    "accentcity": "Krishna",
+    "region": "02",
+    "population": null,
+    "latitude": "16.166667",
+    "longitude": "81.133333"
+  },
+  "kurnool": {
+    "city": "kurnool",
+    "accentcity": "Kurnool",
+    "region": "02",
+    "population": null,
+    "latitude": "15.833333",
+    "longitude": "78.05"
+  },
+  "prakasam": {
+    "city": "prakasam",
+    "latitude": "15.348463",
+    "longitude": "79.560344"
+  },
+  "s.p.s. nellore": {
+    "city": "s.p.s. nellore",
+    "latitude": "14.4425987",
+    "longitude": "79.98645599999998"
+  },
+  "visakhapatnam": {
+    "city": "visakhapatnam",
+    "accentcity": "Visakhapatnam",
+    "region": "02",
+    "population": "1063293",
+    "latitude": "17.7",
+    "longitude": "83.3"
+  },
+  "west godavari": {
+    "city": "west godavari",
+    "accentcity": "West Godavari",
+    "region": "02",
+    "population": null,
+    "latitude": "16.7",
+    "longitude": "81.1"
+  },
+  "y.s.r.": {
+    "city": "y.s.r.",
+    "latitude": "17.104799",
+    "longitude": "81.37035"
+  },
+  "srikakulam": {
+    "city": "srikakulam",
+    "accentcity": "Srikakulam",
+    "region": "02",
+    "population": "118312",
+    "latitude": "18.3",
+    "longitude": "83.9"
+  },
+  "y.s.r kadapa": {
+    "city": "y.s.r kadapa",
+    "latitude": "14.576723",
+    "longitude": "78.838264"
+  },
+  "y.s.r. kadapa": {
+    "city": "y.s.r. kadapa",
+    "latitude": "14.576723",
+    "longitude": "78.838264"
+  },
+  "vizianagaram": {
+    "city": "vizianagaram",
+    "accentcity": "Vizianagaram",
+    "region": "02",
+    "population": "179379",
+    "latitude": "18.116667",
+    "longitude": "83.416667"
+  },
+  "lohit": {
+    "city": "lohit",
+    "latitude": "28.004505",
+    "longitude": "96.208398"
+  },
+  "anjaw": {
+    "city": "anjaw",
+    "latitude": "28.066685",
+    "longitude": "96.492242"
+  },
+  "changlang": {
+    "city": "changlang",
+    "latitude": "27.130586",
+    "longitude": "95.734237"
+  },
+  "east kameng": {
+    "city": "east kameng",
+    "latitude": "24.860571",
+    "longitude": "93.885259"
+  },
+  "east siang": {
+    "city": "east siang",
+    "latitude": "28.109705",
+    "longitude": "95.143207"
+  },
+  "siang": {
+    "city": "siang",
+    "accentcity": "Siang",
+    "region": "37",
+    "population": null,
+    "latitude": "22.6",
+    "longitude": "83.05"
+  },
+  "tawang": {
+    "city": "tawang",
+    "accentcity": "Tawang",
+    "region": "30",
+    "population": "4831",
+    "latitude": "27.583333",
+    "longitude": "91.866667"
+  },
+  "tirap": {
+    "city": "tirap",
+    "accentcity": "Tirap",
+    "region": "30",
+    "population": null,
+    "latitude": "27.166667",
+    "longitude": "95.8"
+  },
+  "cachar": {
+    "city": "cachar",
+    "latitude": "24.7821253",
+    "longitude": "92.85771049999994"
+  },
+  "dhubri": {
+    "city": "dhubri",
+    "accentcity": "Dhubri",
+    "region": "03",
+    "population": null,
+    "latitude": "26.033333",
+    "longitude": "89.966667"
+  },
+  "goalpara": {
+    "city": "goalpara",
+    "accentcity": "Goalpara",
+    "region": "03",
+    "population": "50761",
+    "latitude": "26.166667",
+    "longitude": "90.616667"
+  },
+  "golaghat": {
+    "city": "golaghat",
+    "accentcity": "Golaghat",
+    "region": "03",
+    "population": "34374",
+    "latitude": "26.516667",
+    "longitude": "93.966667"
+  },
+  "hailakandi": {
+    "city": "hailakandi",
+    "accentcity": "Hailakandi",
+    "region": "03",
+    "population": "31032",
+    "latitude": "24.683333",
+    "longitude": "92.566667"
+  },
+  "jorhat": {
+    "city": "jorhat",
+    "accentcity": "Jorhat",
+    "region": "03",
+    "population": "69036",
+    "latitude": "26.75",
+    "longitude": "94.216667"
+  },
+  "kamrup": {
+    "city": "kamrup",
+    "latitude": "26.316082",
+    "longitude": "91.598396"
+  },
+  "kamrup metropolitan": {
+    "city": "kamrup metropolitan",
+    "latitude": "26.079432",
+    "longitude": "91.637215"
+  },
+  "lakhimpur": {
+    "city": "lakhimpur",
+    "accentcity": "Lakhimpur",
+    "region": "36",
+    "population": "140237",
+    "latitude": "27.95",
+    "longitude": "80.766667"
+  },
+  "morigaon": {
+    "city": "morigaon",
+    "latitude": "26.2528853",
+    "longitude": "92.336955"
+  },
+  "nalbari": {
+    "city": "nalbari",
+    "accentcity": "Nalbari",
+    "region": "03",
+    "population": "24618",
+    "latitude": "26.416667",
+    "longitude": "91.433333"
+  },
+  "bongaigaon": {
+    "city": "bongaigaon",
+    "accentcity": "Bongaigaon",
+    "region": "03",
+    "population": "64905",
+    "latitude": "26.466667",
+    "longitude": "90.566667"
+  },
+  "karimganj": {
+    "city": "karimganj",
+    "accentcity": "Karimganj",
+    "region": "03",
+    "population": "55293",
+    "latitude": "24.866667",
+    "longitude": "92.35"
+  },
+  "kokrajhar": {
+    "city": "kokrajhar",
+    "accentcity": "Kokrajhar",
+    "region": "03",
+    "population": "31972",
+    "latitude": "26.4",
+    "longitude": "90.266667"
+  },
+  "barpeta": {
+    "city": "barpeta",
+    "accentcity": "Barpeta",
+    "region": "03",
+    "population": "48826",
+    "latitude": "26.316667",
+    "longitude": "91"
+  },
+  "biswanath": {
+    "city": "biswanath",
+    "accentcity": "Biswanath",
+    "region": "28",
+    "population": null,
+    "latitude": "22.036667",
+    "longitude": "88.048611"
+  },
+  "charaideo": {
+    "city": "charaideo",
+    "latitude": "26.941309",
+    "longitude": "94.875975"
+  },
+  "chirang": {
+    "city": "chirang",
+    "latitude": "26.538662",
+    "longitude": "90.693912"
+  },
+  "darrang": {
+    "city": "darrang",
+    "accentcity": "Darrang",
+    "region": "03",
+    "population": null,
+    "latitude": "26.633333",
+    "longitude": "92.8"
+  },
+  "dhemaji": {
+    "city": "dhemaji",
+    "accentcity": "Dhemaji",
+    "region": "03",
+    "population": "13059",
+    "latitude": "27.483333",
+    "longitude": "94.583333"
+  },
+  "dibrugarh": {
+    "city": "dibrugarh",
+    "accentcity": "Dibrugarh",
+    "region": "03",
+    "population": "122160",
+    "latitude": "27.481667",
+    "longitude": "94.902778"
+  },
+  "dima hasao": {
+    "city": "dima hasao",
+    "latitude": "25.3478",
+    "longitude": "93.017571"
+  },
+  "hojai": {
+    "city": "hojai",
+    "accentcity": "Hojai",
+    "region": "03",
+    "population": "36871",
+    "latitude": "26",
+    "longitude": "92.866667"
+  },
+  "majuli": {
+    "city": "majuli",
+    "accentcity": "Majuli",
+    "region": "03",
+    "population": null,
+    "latitude": "26.95",
+    "longitude": "94.166667"
+  },
+  "nagaon": {
+    "city": "nagaon",
+    "accentcity": "Nagaon",
+    "region": "16",
+    "population": null,
+    "latitude": "17.466667",
+    "longitude": "73.616667"
+  },
+  "sivasagar": {
+    "city": "sivasagar",
+    "latitude": "26.9826098",
+    "longitude": "94.64245210000001"
+  },
+  "sonitpur": {
+    "city": "sonitpur",
+    "latitude": "26.276939",
+    "longitude": "94.071716"
+  },
+  "tinsukia": {
+    "city": "tinsukia",
+    "accentcity": "Tinsukia",
+    "region": "03",
+    "population": "89377",
+    "latitude": "27.5",
+    "longitude": "95.366667"
+  },
+  "udalguri": {
+    "city": "udalguri",
+    "accentcity": "Udalguri",
+    "region": "03",
+    "population": "15936",
+    "latitude": "26.766667",
+    "longitude": "92.133333"
+  },
+  "begusarai": {
+    "city": "begusarai",
+    "accentcity": "Begusarai",
+    "region": "34",
+    "population": "103071",
+    "latitude": "25.416667",
+    "longitude": "86.133333"
+  },
+  "bhagalpur": {
+    "city": "bhagalpur",
+    "accentcity": "Bhagalpur",
+    "region": "36",
+    "population": null,
+    "latitude": "26.169722",
+    "longitude": "83.872778"
+  },
+  "bhojpur": {
+    "city": "bhojpur",
+    "accentcity": "Bhojpur",
+    "region": "39",
+    "population": null,
+    "latitude": "28.933333",
+    "longitude": "79.816667"
+  },
+  "buxar": {
+    "city": "buxar",
+    "accentcity": "Buxar",
+    "region": "34",
+    "population": "96130",
+    "latitude": "25.583333",
+    "longitude": "83.983333"
+  },
+  "gaya": {
+    "city": "gaya",
+    "accentcity": "Gaya",
+    "region": "34",
+    "population": "423737",
+    "latitude": "24.783333",
+    "longitude": "85"
+  },
+  "gopalganj": {
+    "city": "gopalganj",
+    "accentcity": "Gopalganj",
+    "region": "35",
+    "population": null,
+    "latitude": "21.966667",
+    "longitude": "79.516667"
+  },
+  "lakhisarai": {
+    "city": "lakhisarai",
+    "accentcity": "Lakhisarai",
+    "region": "34",
+    "population": "89509",
+    "latitude": "25.183333",
+    "longitude": "86.083333"
+  },
+  "munger": {
+    "city": "munger",
+    "accentcity": "Munger",
+    "region": "34",
+    "population": "203185",
+    "latitude": "25.383333",
+    "longitude": "86.466667"
+  },
+  "nalanda": {
+    "city": "nalanda",
+    "latitude": "25.12406",
+    "longitude": "85.459475"
+  },
+  "nawada": {
+    "city": "nawada",
+    "accentcity": "Nawada",
+    "region": "36",
+    "population": null,
+    "latitude": "27.016667",
+    "longitude": "80.066667"
+  },
+  "patna": {
+    "city": "patna",
+    "accentcity": "Patna",
+    "region": "37",
+    "population": null,
+    "latitude": "23.3",
+    "longitude": "82.666667"
+  },
+  "rohtas": {
+    "city": "rohtas",
+    "latitude": "24.628741",
+    "longitude": "83.920166"
+  },
+  "saran": {
+    "city": "saran",
+    "accentcity": "Saran",
+    "region": "34",
+    "population": null,
+    "latitude": "24.483333",
+    "longitude": "86.3"
+  },
+  "siwan": {
+    "city": "siwan",
+    "accentcity": "Siwan",
+    "region": "38",
+    "population": null,
+    "latitude": "24.133333",
+    "longitude": "84.883333"
+  },
+  "vaishali": {
+    "city": "vaishali",
+    "latitude": "25.683821",
+    "longitude": "85.354965"
+  },
+  "banka": {
+    "city": "banka",
+    "accentcity": "Banka",
+    "region": "34",
+    "population": "38943",
+    "latitude": "24.883333",
+    "longitude": "86.916667"
+  },
+  "east champaran": {
+    "city": "east champaran",
+    "latitude": "26.609814",
+    "longitude": "84.856793"
+  },
+  "kaimur bhabua": {
+    "city": "kaimur bhabua",
+    "latitude": "25.042623",
+    "longitude": "83.605573"
+  },
+  "aurangabad": {
+    "city": "aurangabad",
+    "accentcity": "Aurangabad",
+    "region": "36",
+    "population": null,
+    "latitude": "27.783333",
+    "longitude": "80.35"
+  },
+  "madhepura": {
+    "city": "madhepura",
+    "latitude": "25.923968",
+    "longitude": "86.794639"
+  },
+  "arwal": {
+    "city": "arwal",
+    "accentcity": "Arwal",
+    "region": "34",
+    "population": null,
+    "latitude": "25.25",
+    "longitude": "84.683333"
+  },
+  "jehanabad": {
+    "city": "jehanabad",
+    "latitude": "25.213929",
+    "longitude": "84.989555"
+  },
+  "darbhanga": {
+    "city": "darbhanga",
+    "accentcity": "Darbhanga",
+    "region": "34",
+    "population": "287180",
+    "latitude": "26.166667",
+    "longitude": "85.9"
+  },
+  "madhubani": {
+    "city": "madhubani",
+    "accentcity": "Madhubani",
+    "region": "34",
+    "population": "71590",
+    "latitude": "26.366667",
+    "longitude": "86.083333"
+  },
+  "purnia": {
+    "city": "purnia",
+    "accentcity": "Purnia",
+    "region": "38",
+    "population": null,
+    "latitude": "24.516667",
+    "longitude": "87.133333"
+  },
+  "araria": {
+    "city": "araria",
+    "accentcity": "Araria",
+    "region": "34",
+    "population": "67482",
+    "latitude": "26.15",
+    "longitude": "87.516667"
+  },
+  "sheikhpura": {
+    "city": "sheikhpura",
+    "accentcity": "Sheikhpura",
+    "region": "12",
+    "population": null,
+    "latitude": "34.330556",
+    "longitude": "74.230556"
+  },
+  "sitamarhi": {
+    "city": "sitamarhi",
+    "accentcity": "Sitamarhi",
+    "region": "34",
+    "population": "57101",
+    "latitude": "26.6",
+    "longitude": "85.483333"
+  },
+  "west champaran": {
+    "city": "west champaran",
+    "latitude": "27.15431",
+    "longitude": "84.354205"
+  },
+  "kaimur": {
+    "city": "kaimur",
+    "accentcity": "Kaimur",
+    "region": "35",
+    "population": "20156",
+    "latitude": "23.383333",
+    "longitude": "79.75"
+  },
+  "katihar": {
+    "city": "katihar",
+    "accentcity": "Katihar",
+    "region": "34",
+    "population": "192575",
+    "latitude": "25.533333",
+    "longitude": "87.583333"
+  },
+  "sheohar": {
+    "city": "sheohar",
+    "accentcity": "Sheohar",
+    "region": "34",
+    "population": null,
+    "latitude": "26.516667",
+    "longitude": "85.3"
+  },
+  "samastipur": {
+    "city": "samastipur",
+    "accentcity": "Samastipur",
+    "region": "34",
+    "population": "57602",
+    "latitude": "25.85",
+    "longitude": "85.783333"
+  },
+  "kishanganj": {
+    "city": "kishanganj",
+    "accentcity": "Kishanganj",
+    "region": "34",
+    "population": null,
+    "latitude": "25.7",
+    "longitude": "86.95"
+  },
+  "khagaria": {
+    "city": "khagaria",
+    "accentcity": "Khagaria",
+    "region": "34",
+    "population": "49988",
+    "latitude": "25.5",
+    "longitude": "86.483333"
+  },
+  "saharsa": {
+    "city": "saharsa",
+    "accentcity": "Saharsa",
+    "region": "34",
+    "population": "145779",
+    "latitude": "25.883333",
+    "longitude": "86.6"
+  },
+  "supaul": {
+    "city": "supaul",
+    "accentcity": "Supaul",
+    "region": "34",
+    "population": "60027",
+    "latitude": "26.116667",
+    "longitude": "86.6"
+  },
+  "muzaffarpur": {
+    "city": "muzaffarpur",
+    "accentcity": "Muzaffarpur",
+    "region": "34",
+    "population": "333235",
+    "latitude": "26.116667",
+    "longitude": "85.4"
+  },
+  "jamui": {
+    "city": "jamui",
+    "accentcity": "Jamui",
+    "region": "34",
+    "population": "78189",
+    "latitude": "24.916667",
+    "longitude": "86.216667"
+  },
+  "chandigarh": {
+    "city": "chandigarh",
+    "accentcity": "Chandigarh",
+    "region": "05",
+    "population": "914374",
+    "latitude": "30.737222",
+    "longitude": "76.787222"
+  },
+  "bilaspur": {
+    "city": "bilaspur",
+    "accentcity": "Bilaspur",
+    "region": "37",
+    "population": "282736",
+    "latitude": "22.083333",
+    "longitude": "82.15"
+  },
+  "durg": {
+    "city": "durg",
+    "accentcity": "Durg",
+    "region": "37",
+    "population": "255310",
+    "latitude": "21.183333",
+    "longitude": "81.283333"
+  },
+  "korba": {
+    "city": "korba",
+    "accentcity": "Korba",
+    "region": "37",
+    "population": "419326",
+    "latitude": "22.35",
+    "longitude": "82.683333"
+  },
+  "raipur": {
+    "city": "raipur",
+    "accentcity": "Raipur",
+    "region": "39",
+    "population": "27705",
+    "latitude": "30.316667",
+    "longitude": "78.1"
+  },
+  "rajnandgaon": {
+    "city": "rajnandgaon",
+    "latitude": "21.097212",
+    "longitude": "81.03375"
+  },
+  "surajpur": {
+    "city": "surajpur",
+    "accentcity": "Surajpur",
+    "region": "37",
+    "population": null,
+    "latitude": "23.216667",
+    "longitude": "82.85"
+  },
+  "balod": {
+    "city": "balod",
+    "accentcity": "Balod",
+    "region": "37",
+    "population": "22277",
+    "latitude": "20.73",
+    "longitude": "81.204722"
+  },
+  "baloda bazar": {
+    "city": "baloda bazar",
+    "accentcity": "Baloda Bazar",
+    "region": "37",
+    "population": "25238",
+    "latitude": "21.666667",
+    "longitude": "82.166667"
+  },
+  "balrampur": {
+    "city": "balrampur",
+    "accentcity": "Balrampur",
+    "region": "36",
+    "population": "77404",
+    "latitude": "27.433333",
+    "longitude": "82.183333"
+  },
+  "bametara": {
+    "city": "bametara",
+    "latitude": "21.714025",
+    "longitude": "81.535615"
+  },
+  "bastar": {
+    "city": "bastar",
+    "accentcity": "Bastar",
+    "region": "37",
+    "population": null,
+    "latitude": "19.2",
+    "longitude": "81.933333"
+  },
+  "bijapur": {
+    "city": "bijapur",
+    "accentcity": "Bijapur",
+    "region": "37",
+    "population": null,
+    "latitude": "18.8",
+    "longitude": "80.816667"
+  },
+  "dhamtari": {
+    "city": "dhamtari",
+    "accentcity": "Dhamtari",
+    "region": "37",
+    "population": "87161",
+    "latitude": "20.707222",
+    "longitude": "81.549722"
+  },
+  "gariaband": {
+    "city": "gariaband",
+    "accentcity": "Gariaband",
+    "region": "37",
+    "population": "10416",
+    "latitude": "20.635",
+    "longitude": "82.061389"
+  },
+  "janjgir champa": {
+    "city": "janjgir champa",
+    "latitude": "21.970553",
+    "longitude": "82.475276"
+  },
+  "jashpur": {
+    "city": "jashpur",
+    "accentcity": "Jashpur",
+    "region": "37",
+    "population": null,
+    "latitude": "22.9",
+    "longitude": "84.15"
+  },
+  "kondagaon": {
+    "city": "kondagaon",
+    "accentcity": "Kondagaon",
+    "region": "37",
+    "population": "27630",
+    "latitude": "19.6",
+    "longitude": "81.666667"
+  },
+  "koriya": {
+    "city": "koriya",
+    "latitude": "23.38755",
+    "longitude": "82.388578"
+  },
+  "mahasamund": {
+    "city": "mahasamund",
+    "accentcity": "Mahasamund",
+    "region": "37",
+    "population": "50447",
+    "latitude": "21.1",
+    "longitude": "82.1"
+  },
+  "mungeli": {
+    "city": "mungeli",
+    "accentcity": "Mungeli",
+    "region": "37",
+    "population": "27701",
+    "latitude": "22.066667",
+    "longitude": "81.683333"
+  },
+  "narayanpur": {
+    "city": "narayanpur",
+    "accentcity": "Narayanpur",
+    "region": "28",
+    "population": null,
+    "latitude": "22.068333",
+    "longitude": "88.295"
+  },
+  "raigarh": {
+    "city": "raigarh",
+    "accentcity": "Raigarh",
+    "region": "37",
+    "population": "121291",
+    "latitude": "21.9",
+    "longitude": "83.4"
+  },
+  "sukma": {
+    "city": "sukma",
+    "accentcity": "Sukma",
+    "region": "37",
+    "population": null,
+    "latitude": "18.4",
+    "longitude": "81.666667"
+  },
+  "surguja": {
+    "city": "surguja",
+    "accentcity": "Surguja",
+    "region": "37",
+    "population": null,
+    "latitude": "23.116667",
+    "longitude": "83.2"
+  },
+  "east delhi": {
+    "city": "east delhi",
+    "accentcity": "Delhi",
+    "region": "07",
+    "population": "10928270",
+    "latitude": "28.627956",
+    "longitude": "77.295627"
+  },
+  "new delhi": {
+    "city": "new delhi",
+    "accentcity": "New Delhi",
+    "region": "07",
+    "population": "10928270",
+    "latitude": "28.6",
+    "longitude": "77.2"
+  },
+  "north delhi": {
+    "city": "north delhi",
+    "accentcity": "Delhi",
+    "region": "07",
+    "population": "10928270",
+    "latitude": "28.748389",
+    "longitude": "77.206024"
+  },
+  "north east delhi": {
+    "city": "north east delhi",
+    "accentcity": "Delhi",
+    "region": "07",
+    "population": "10928270",
+    "latitude": "28.718369",
+    "longitude": "77.258027"
+  },
+  "north west delhi": {
+    "city": "north west delhi",
+    "accentcity": "Delhi",
+    "region": "07",
+    "population": "10928270",
+    "latitude": "28.718621",
+    "longitude": "77.068513"
+  },
+  "south delhi": {
+    "city": "south delhi",
+    "accentcity": "Delhi",
+    "region": "07",
+    "population": "10928270",
+    "latitude": "28.481655",
+    "longitude": "77.187286"
+  },
+  "south west delhi": {
+    "city": "south west delhi",
+    "accentcity": "Delhi",
+    "region": "07",
+    "population": "10928270",
+    "latitude": "28.592893",
+    "longitude": "77.034616"
+  },
+  "west delhi": {
+    "city": "west delhi",
+    "accentcity": "Delhi",
+    "region": "07",
+    "population": "10928270",
+    "latitude": "28.666343",
+    "longitude": "77.067959"
+  },
+  "central delhi": {
+    "city": "central delhi",
+    "accentcity": "Delhi",
+    "region": "07",
+    "population": "10928270",
+    "latitude": "28.664343",
+    "longitude": "77.216684"
+  },
+  "shahdara": {
+    "city": "shahdara",
+    "accentcity": "Shahdara",
+    "region": "35",
+    "population": null,
+    "latitude": "24.616667",
+    "longitude": "77.6"
+  },
+  "south east delhi": {
+    "city": "south east delhi",
+    "accentcity": "Delhi",
+    "region": "07",
+    "population": "10928270",
+    "latitude": "28.563029",
+    "longitude": "77.261088"
+  },
+  "north goa": {
+    "city": "north goa",
+    "accentcity": "Goa",
+    "region": "33",
+    "population": null,
+    "latitude": "15.4",
+    "longitude": "73.8"
+  },
+  "south goa": {
+    "city": "south goa",
+    "accentcity": "Goa",
+    "region": "33",
+    "population": null,
+    "latitude": "15.4",
+    "longitude": "73.8"
+  },
+  "ahmadabad": {
+    "city": "ahmadabad",
+    "accentcity": "Ahmadabad",
+    "region": "09",
+    "population": "3719933",
+    "latitude": "23.033333",
+    "longitude": "72.616667"
+  },
+  "anand": {
+    "city": "anand",
+    "accentcity": "Anand",
+    "region": "09",
+    "population": "138018",
+    "latitude": "22.566667",
+    "longitude": "72.933333"
+  },
+  "aravalli": {
+    "city": "aravalli",
+    "latitude": "23.520491",
+    "longitude": "73.37087"
+  },
+  "banas kantha": {
+    "city": "banas kantha",
+    "latitude": "24.345474",
+    "longitude": "71.762248"
+  },
+  "bharuch": {
+    "city": "bharuch",
+    "accentcity": "Bharuch",
+    "region": "09",
+    "population": "153538",
+    "latitude": "21.7",
+    "longitude": "72.966667"
+  },
+  "bhavnagar": {
+    "city": "bhavnagar",
+    "accentcity": "Bhavnagar",
+    "region": "09",
+    "population": "555014",
+    "latitude": "21.766667",
+    "longitude": "72.15"
+  },
+  "botad": {
+    "city": "botad",
+    "accentcity": "Botad",
+    "region": "09",
+    "population": "117060",
+    "latitude": "22.166667",
+    "longitude": "71.666667"
+  },
+  "chota udaipur": {
+    "city": "chota udaipur",
+    "accentcity": "Chota Udaipur",
+    "region": "09",
+    "population": null,
+    "latitude": "22.316667",
+    "longitude": "74.016667"
+  },
+  "dahod": {
+    "city": "dahod",
+    "accentcity": "Dahod",
+    "region": "35",
+    "population": null,
+    "latitude": "23.033333",
+    "longitude": "77.483333"
+  },
+  "gandhinagar": {
+    "city": "gandhinagar",
+    "accentcity": "Gandhinagar",
+    "region": "36",
+    "population": null,
+    "latitude": "29.782778",
+    "longitude": "77.242222"
+  },
+  "gir somnath": {
+    "city": "gir somnath",
+    "latitude": "21.011939",
+    "longitude": "70.716847"
+  },
+  "jamnagar": {
+    "city": "jamnagar",
+    "accentcity": "Jamnagar",
+    "region": "09",
+    "population": "492087",
+    "latitude": "22.466667",
+    "longitude": "70.066667"
+  },
+  "kheda": {
+    "city": "kheda",
+    "accentcity": "Kheda",
+    "region": "09",
+    "population": "24768",
+    "latitude": "22.75",
+    "longitude": "72.683333"
+  },
+  "mahesana": {
+    "city": "mahesana",
+    "accentcity": "Mahesana",
+    "region": "09",
+    "population": "102675",
+    "latitude": "23.6",
+    "longitude": "72.4"
+  },
+  "mahisagar": {
+    "city": "mahisagar",
+    "latitude": "23.171126",
+    "longitude": "73.559413"
+  },
+  "morbi": {
+    "city": "morbi",
+    "accentcity": "Morbi",
+    "region": "09",
+    "population": null,
+    "latitude": "22.816667",
+    "longitude": "70.833333"
+  },
+  "navsari": {
+    "city": "navsari",
+    "accentcity": "Navsari",
+    "region": "09",
+    "population": "136204",
+    "latitude": "20.85",
+    "longitude": "72.916667"
+  },
+  "panch mahals": {
+    "city": "panch mahals",
+    "latitude": "22.801118",
+    "longitude": "73.559413"
+  },
+  "patan": {
+    "city": "patan",
+    "accentcity": "Patan",
+    "region": "38",
+    "population": null,
+    "latitude": "24.216667",
+    "longitude": "84.183333"
+  },
+  "porbandar": {
+    "city": "porbandar",
+    "accentcity": "Porbandar",
+    "region": "09",
+    "population": "138881",
+    "latitude": "21.633333",
+    "longitude": "69.6"
+  },
+  "rajkot": {
+    "city": "rajkot",
+    "accentcity": "Rajkot",
+    "region": "24",
+    "population": null,
+    "latitude": "25.731111",
+    "longitude": "75.5925"
+  },
+  "surat": {
+    "city": "surat",
+    "accentcity": "Surat",
+    "region": "09",
+    "population": "2894675",
+    "latitude": "20.966667",
+    "longitude": "72.9"
+  },
+  "vadodara": {
+    "city": "vadodara",
+    "accentcity": "Vadodara",
+    "region": "09",
+    "population": "1409565",
+    "latitude": "22.3",
+    "longitude": "73.2"
+  },
+  "valsad": {
+    "city": "valsad",
+    "accentcity": "Valsad",
+    "region": "09",
+    "population": "72934",
+    "latitude": "20.633333",
+    "longitude": "72.933333"
+  },
+  "dang": {
+    "city": "dang",
+    "accentcity": "Dang",
+    "region": "39",
+    "population": null,
+    "latitude": "30.15",
+    "longitude": "78.983333"
+  },
+  "surendranagar": {
+    "city": "surendranagar",
+    "accentcity": "Surendranagar",
+    "region": "09",
+    "population": "179640",
+    "latitude": "22.7",
+    "longitude": "71.683333"
+  },
+  "ahmedabad": {
+    "city": "ahmedabad",
+    "accentcity": "Ahmedabad",
+    "region": "09",
+    "population": null,
+    "latitude": "23.033333",
+    "longitude": "72.616667"
+  },
+  "banaskantha": {
+    "city": "banaskantha",
+    "latitude": "24.347636",
+    "longitude": "72.32832"
+  },
+  "kutch": {
+    "city": "kutch",
+    "latitude": "23.733733",
+    "longitude": "69.859741"
+  },
+  "mehsana": {
+    "city": "mehsana",
+    "accentcity": "Mehsana",
+    "region": "09",
+    "population": null,
+    "latitude": "23.6",
+    "longitude": "72.4"
+  },
+  "panchmahal": {
+    "city": "panchmahal",
+    "latitude": "22.801118",
+    "longitude": "73.559413"
+  },
+  "sabarkantha": {
+    "city": "sabarkantha",
+    "latitude": "23.84767",
+    "longitude": "72.993297"
+  },
+  "junagadh": {
+    "city": "junagadh",
+    "accentcity": "Junagadh",
+    "region": "09",
+    "population": "184459",
+    "latitude": "21.516667",
+    "longitude": "70.466667"
+  },
+  "amreli": {
+    "city": "amreli",
+    "accentcity": "Amreli",
+    "region": "09",
+    "population": "99748",
+    "latitude": "21.616667",
+    "longitude": "71.233333"
+  },
+  "ambala": {
+    "city": "ambala",
+    "accentcity": "Ambala",
+    "region": "11",
+    "population": null,
+    "latitude": "30.898889",
+    "longitude": "76.964722"
+  },
+  "bhiwani": {
+    "city": "bhiwani",
+    "accentcity": "Bhiwani",
+    "region": "10",
+    "population": "190868",
+    "latitude": "28.783333",
+    "longitude": "76.133333"
+  },
+  "charki dadri": {
+    "city": "charki dadri",
+    "accentcity": "Charki Dadri",
+    "region": "10",
+    "population": null,
+    "latitude": "28.6",
+    "longitude": "76.266667"
+  },
+  "faridabad": {
+    "city": "faridabad",
+    "accentcity": "Faridabad",
+    "region": "10",
+    "population": "1280909",
+    "latitude": "28.433333",
+    "longitude": "77.316667"
+  },
+  "fatehabad": {
+    "city": "fatehabad",
+    "accentcity": "Fatehabad",
+    "region": "36",
+    "population": "21959",
+    "latitude": "27.016667",
+    "longitude": "78.316667"
+  },
+  "gurugram": {
+    "city": "gurugram",
+    "latitude": "28.459497",
+    "longitude": "77.026638"
+  },
+  "hisar": {
+    "city": "hisar",
+    "accentcity": "Hisar",
+    "region": "10",
+    "population": "296456",
+    "latitude": "29.166667",
+    "longitude": "75.716667"
+  },
+  "jind": {
+    "city": "jind",
+    "accentcity": "Jind",
+    "region": "10",
+    "population": "161271",
+    "latitude": "29.316667",
+    "longitude": "76.316667"
+  },
+  "kaithal": {
+    "city": "kaithal",
+    "accentcity": "Kaithal",
+    "region": "10",
+    "population": "140614",
+    "latitude": "29.8",
+    "longitude": "76.383333"
+  },
+  "karnal": {
+    "city": "karnal",
+    "accentcity": "Karnal",
+    "region": "10",
+    "population": "225064",
+    "latitude": "29.683333",
+    "longitude": "76.983333"
+  },
+  "kurukshetra": {
+    "city": "kurukshetra",
+    "latitude": "29.9695121",
+    "longitude": "76.87828200000001"
+  },
+  "nuh": {
+    "city": "nuh",
+    "accentcity": "Nuh",
+    "region": "10",
+    "population": "12699",
+    "latitude": "28.116667",
+    "longitude": "77.016667"
+  },
+  "palwal": {
+    "city": "palwal",
+    "accentcity": "Palwal",
+    "region": "12",
+    "population": null,
+    "latitude": "33.030556",
+    "longitude": "74.486111"
+  },
+  "panipat": {
+    "city": "panipat",
+    "accentcity": "Panipat",
+    "region": "10",
+    "population": "292828",
+    "latitude": "29.388889",
+    "longitude": "76.968056"
+  },
+  "rohtak": {
+    "city": "rohtak",
+    "accentcity": "Rohtak",
+    "region": "10",
+    "population": "317266",
+    "latitude": "28.9",
+    "longitude": "76.566667"
+  },
+  "sirsa": {
+    "city": "sirsa",
+    "accentcity": "Sirsa",
+    "region": "36",
+    "population": "12609",
+    "latitude": "25.283333",
+    "longitude": "82.083333"
+  },
+  "sonipat": {
+    "city": "sonipat",
+    "accentcity": "Sonipat",
+    "region": "10",
+    "population": "250538",
+    "latitude": "28.983333",
+    "longitude": "77.016667"
+  },
+  "yamunanagar": {
+    "city": "yamunanagar",
+    "accentcity": "Yamunanagar",
+    "region": "10",
+    "population": "208945",
+    "latitude": "30.1",
+    "longitude": "77.283333"
+  },
+  "jhajjar": {
+    "city": "jhajjar",
+    "accentcity": "Jhajjar",
+    "region": "10",
+    "population": "44125",
+    "latitude": "28.616667",
+    "longitude": "76.65"
+  },
+  "charkhi dadri": {
+    "city": "charkhi dadri",
+    "accentcity": "Charkhi Dadri",
+    "region": "10",
+    "population": "50562",
+    "latitude": "28.6",
+    "longitude": "76.266667"
+  },
+  "mahendragarh": {
+    "city": "mahendragarh",
+    "accentcity": "Mahendragarh",
+    "region": "10",
+    "population": "25730",
+    "latitude": "28.283333",
+    "longitude": "76.15"
+  },
+  "rewari": {
+    "city": "rewari",
+    "accentcity": "Rewari",
+    "region": "10",
+    "population": "112087",
+    "latitude": "28.183333",
+    "longitude": "76.616667"
+  },
+  "chamba": {
+    "city": "chamba",
+    "accentcity": "Chamba",
+    "region": "12",
+    "population": null,
+    "latitude": "32.984722",
+    "longitude": "74.955556"
+  },
+  "hamirpur": {
+    "city": "hamirpur",
+    "accentcity": "Hamirpur",
+    "region": "36",
+    "population": "34148",
+    "latitude": "25.95",
+    "longitude": "80.15"
+  },
+  "kangra": {
+    "city": "kangra",
+    "accentcity": "Kangra",
+    "region": "11",
+    "population": "9159",
+    "latitude": "32.1",
+    "longitude": "76.266667"
+  },
+  "sirmaur": {
+    "city": "sirmaur",
+    "accentcity": "Sirmaur",
+    "region": "35",
+    "population": "11813",
+    "latitude": "24.85",
+    "longitude": "81.383333"
+  },
+  "solan": {
+    "city": "solan",
+    "accentcity": "Solan",
+    "region": "11",
+    "population": null,
+    "latitude": "30.916667",
+    "longitude": "77.116667"
+  },
+  "una": {
+    "city": "una",
+    "accentcity": "Una",
+    "region": "11",
+    "population": "17570",
+    "latitude": "31.483333",
+    "longitude": "76.283333"
+  },
+  "mandi": {
+    "city": "mandi",
+    "accentcity": "Mandi",
+    "region": "24",
+    "population": null,
+    "latitude": "25.649444",
+    "longitude": "75.593056"
+  },
+  "shimla": {
+    "city": "shimla",
+    "accentcity": "Shimla",
+    "region": "24",
+    "population": null,
+    "latitude": "28.683333",
+    "longitude": "74.566667"
+  },
+  "anantnag": {
+    "city": "anantnag",
+    "accentcity": "Anantnag",
+    "region": "12",
+    "population": "79827",
+    "latitude": "33.733333",
+    "longitude": "75.15"
+  },
+  "badgam": {
+    "city": "badgam",
+    "accentcity": "Badgam",
+    "region": "12",
+    "population": "20948",
+    "latitude": "34.016667",
+    "longitude": "74.716667"
+  },
+  "bandipore": {
+    "city": "bandipore",
+    "latitude": "34.363021",
+    "longitude": "74.462454"
+  },
+  "baramula": {
+    "city": "baramula",
+    "accentcity": "Baramula",
+    "region": "12",
+    "population": "77282",
+    "latitude": "34.211111",
+    "longitude": "74.340833"
+  },
+  "ganderbal": {
+    "city": "ganderbal",
+    "accentcity": "Ganderbal",
+    "region": "12",
+    "population": null,
+    "latitude": "34.233333",
+    "longitude": "74.783333"
+  },
+  "jammu": {
+    "city": "jammu",
+    "accentcity": "Jammu",
+    "region": "12",
+    "population": "465600",
+    "latitude": "32.733333",
+    "longitude": "74.866667"
+  },
+  "kathua": {
+    "city": "kathua",
+    "accentcity": "Kathua",
+    "region": "12",
+    "population": "48555",
+    "latitude": "32.366667",
+    "longitude": "75.516667"
+  },
+  "kishtwar": {
+    "city": "kishtwar",
+    "accentcity": "Kishtwar",
+    "region": "12",
+    "population": "20561",
+    "latitude": "33.316667",
+    "longitude": "75.766667"
+  },
+  "kulgam": {
+    "city": "kulgam",
+    "accentcity": "Kulgam",
+    "region": "12",
+    "population": "16247",
+    "latitude": "33.65",
+    "longitude": "75.016667"
+  },
+  "kupwara": {
+    "city": "kupwara",
+    "accentcity": "Kupwara",
+    "region": "12",
+    "population": null,
+    "latitude": "34.030556",
+    "longitude": "74.264167"
+  },
+  "pulwama": {
+    "city": "pulwama",
+    "accentcity": "Pulwama",
+    "region": "12",
+    "population": "20073",
+    "latitude": "33.883333",
+    "longitude": "74.916667"
+  },
+  "samba": {
+    "city": "samba",
+    "accentcity": "Samba",
+    "region": "12",
+    "population": "26903",
+    "latitude": "32.566667",
+    "longitude": "75.116667"
+  },
+  "shupiyan": {
+    "city": "shupiyan",
+    "accentcity": "Shupiyan",
+    "region": "12",
+    "population": "13566",
+    "latitude": "33.716667",
+    "longitude": "74.833333"
+  },
+  "srinagar": {
+    "city": "srinagar",
+    "accentcity": "Srinagar",
+    "region": "39",
+    "population": "20219",
+    "latitude": "30.216667",
+    "longitude": "78.783333"
+  },
+  "udhampur": {
+    "city": "udhampur",
+    "accentcity": "Udhampur",
+    "region": "12",
+    "population": "80478",
+    "latitude": "32.933333",
+    "longitude": "75.133333"
+  },
+  "ramban": {
+    "city": "ramban",
+    "accentcity": "Ramban",
+    "region": "12",
+    "population": "7320",
+    "latitude": "33.25",
+    "longitude": "75.25"
+  },
+  "budgam": {
+    "city": "budgam",
+    "latitude": "34.065461",
+    "longitude": "74.758539"
+  },
+  "baramulla": {
+    "city": "baramulla",
+    "latitude": "34.112118",
+    "longitude": "74.721479"
+  },
+  "shopiyan": {
+    "city": "shopiyan",
+    "latitude": "33.71918",
+    "longitude": "74.831545"
+  },
+  "doda": {
+    "city": "doda",
+    "accentcity": "Doda",
+    "region": "23",
+    "population": null,
+    "latitude": "30.4",
+    "longitude": "74.65"
+  },
+  "mirpur": {
+    "city": "mirpur",
+    "accentcity": "Mirpur",
+    "region": "36",
+    "population": null,
+    "latitude": "30.073333",
+    "longitude": "77.780833"
+  },
+  "muzaffarabad": {
+    "city": "muzaffarabad",
+    "accentcity": "Muzaffarabad",
+    "region": "36",
+    "population": null,
+    "latitude": "30.116667",
+    "longitude": "77.716667"
+  },
+  "punch": {
+    "city": "punch",
+    "accentcity": "Punch",
+    "region": "36",
+    "population": null,
+    "latitude": "25.816667",
+    "longitude": "79.05"
+  },
+  "bokaro": {
+    "city": "bokaro",
+    "accentcity": "Bokaro",
+    "region": "38",
+    "population": "418578",
+    "latitude": "23.783333",
+    "longitude": "85.966667"
+  },
+  "deoghar": {
+    "city": "deoghar",
+    "accentcity": "Deoghar",
+    "region": "38",
+    "population": null,
+    "latitude": "24.483333",
+    "longitude": "86.7"
+  },
+  "dhanbad": {
+    "city": "dhanbad",
+    "accentcity": "Dhanbad",
+    "region": "38",
+    "population": "219660",
+    "latitude": "23.8",
+    "longitude": "86.45"
+  },
+  "giridih": {
+    "city": "giridih",
+    "accentcity": "Giridih",
+    "region": "38",
+    "population": null,
+    "latitude": "24.183333",
+    "longitude": "86.3"
+  },
+  "hazaribagh": {
+    "city": "hazaribagh",
+    "accentcity": "Hazaribagh",
+    "region": "38",
+    "population": null,
+    "latitude": "23.983333",
+    "longitude": "85.35"
+  },
+  "kodarma": {
+    "city": "kodarma",
+    "accentcity": "Kodarma",
+    "region": "38",
+    "population": "19182",
+    "latitude": "24.433333",
+    "longitude": "85.516667"
+  },
+  "ranchi": {
+    "city": "ranchi",
+    "accentcity": "Ranchi",
+    "region": "38",
+    "population": "945079",
+    "latitude": "23.35",
+    "longitude": "85.333333"
+  },
+  "simdega": {
+    "city": "simdega",
+    "accentcity": "Simdega",
+    "region": "38",
+    "population": "38736",
+    "latitude": "22.616667",
+    "longitude": "84.516667"
+  },
+  "garhwa": {
+    "city": "garhwa",
+    "accentcity": "Garhwa",
+    "region": "36",
+    "population": null,
+    "latitude": "24.733333",
+    "longitude": "83.216667"
+  },
+  "jamtara": {
+    "city": "jamtara",
+    "accentcity": "Jamtara",
+    "region": "38",
+    "population": "24391",
+    "latitude": "23.95",
+    "longitude": "86.8"
+  },
+  "godda": {
+    "city": "godda",
+    "accentcity": "Godda",
+    "region": "38",
+    "population": "43663",
+    "latitude": "24.833333",
+    "longitude": "87.216667"
+  },
+  "koderma": {
+    "city": "koderma",
+    "latitude": "24.467681",
+    "longitude": "85.593365"
+  },
+  "dumka": {
+    "city": "dumka",
+    "accentcity": "Dumka",
+    "region": "38",
+    "population": "47668",
+    "latitude": "24.266667",
+    "longitude": "87.25"
+  },
+  "chatra": {
+    "city": "chatra",
+    "accentcity": "Chatra",
+    "region": "38",
+    "population": "46849",
+    "latitude": "24.216667",
+    "longitude": "84.866667"
+  },
+  "east singhbhum": {
+    "city": "east singhbhum",
+    "latitude": "22.486676",
+    "longitude": "86.499655"
+  },
+  "gumla": {
+    "city": "gumla",
+    "accentcity": "Gumla",
+    "region": "37",
+    "population": "44956",
+    "latitude": "23.05",
+    "longitude": "84.55"
+  },
+  "khunti": {
+    "city": "khunti",
+    "accentcity": "Khunti",
+    "region": "38",
+    "population": "31370",
+    "latitude": "23.083333",
+    "longitude": "85.283333"
+  },
+  "latehar": {
+    "city": "latehar",
+    "accentcity": "Latehar",
+    "region": "38",
+    "population": "20771",
+    "latitude": "23.75",
+    "longitude": "84.5"
+  },
+  "lohardaga": {
+    "city": "lohardaga",
+    "accentcity": "Lohardaga",
+    "region": "38",
+    "population": "53037",
+    "latitude": "23.433333",
+    "longitude": "84.683333"
+  },
+  "ramgarh": {
+    "city": "ramgarh",
+    "accentcity": "Ramgarh",
+    "region": "39",
+    "population": null,
+    "latitude": "29.45",
+    "longitude": "79.55"
+  },
+  "sahibganj": {
+    "city": "sahibganj",
+    "accentcity": "Sahibganj",
+    "region": "38",
+    "population": "95900",
+    "latitude": "25.25",
+    "longitude": "87.65"
+  },
+  "west singhbhum": {
+    "city": "west singhbhum",
+    "latitude": "22.365086",
+    "longitude": "85.437557"
+  },
+  "bagalkote": {
+    "city": "bagalkote",
+    "latitude": "16.172536",
+    "longitude": "75.655721"
+  },
+  "ballari": {
+    "city": "ballari",
+    "accentcity": "Ballari",
+    "region": "19",
+    "population": null,
+    "latitude": "15.15",
+    "longitude": "76.933333"
+  },
+  "belagavi": {
+    "city": "belagavi",
+    "accentcity": "Belagavi",
+    "region": "19",
+    "population": null,
+    "latitude": "15.866667",
+    "longitude": "74.5"
+  },
+  "bengaluru": {
+    "city": "bengaluru",
+    "accentcity": "Bengaluru",
+    "region": "19",
+    "population": null,
+    "latitude": "12.983333",
+    "longitude": "77.583333"
+  },
+  "bengaluru rural": {
+    "city": "bengaluru rural",
+    "accentcity": "Bengaluru",
+    "region": "19",
+    "population": null,
+    "latitude": "12.983333",
+    "longitude": "77.583333"
+  },
+  "bidar": {
+    "city": "bidar",
+    "accentcity": "Bidar",
+    "region": "19",
+    "population": "204088",
+    "latitude": "17.9",
+    "longitude": "77.55"
+  },
+  "chikkaballapura": {
+    "city": "chikkaballapura",
+    "latitude": "13.432366",
+    "longitude": "77.72803959999999"
+  },
+  "dakshina kannada": {
+    "city": "dakshina kannada",
+    "latitude": "12.843781",
+    "longitude": "75.247906"
+  },
+  "davanagere": {
+    "city": "davanagere",
+    "latitude": "14.464409",
+    "longitude": "75.921758"
+  },
+  "dharwad": {
+    "city": "dharwad",
+    "accentcity": "Dharwad",
+    "region": "19",
+    "population": null,
+    "latitude": "15.466667",
+    "longitude": "75.016667"
+  },
+  "gadag": {
+    "city": "gadag",
+    "accentcity": "Gadag",
+    "region": "19",
+    "population": "162583",
+    "latitude": "15.416667",
+    "longitude": "75.616667"
+  },
+  "kalaburagi": {
+    "city": "kalaburagi",
+    "latitude": "17.329731",
+    "longitude": "76.83429569999998"
+  },
+  "mandya": {
+    "city": "mandya",
+    "accentcity": "Mandya",
+    "region": "19",
+    "population": "134857",
+    "latitude": "12.524167",
+    "longitude": "76.895833"
+  },
+  "mysuru": {
+    "city": "mysuru",
+    "accentcity": "Mysuru",
+    "region": "19",
+    "population": null,
+    "latitude": "12.307222",
+    "longitude": "76.649722"
+  },
+  "tumakuru": {
+    "city": "tumakuru",
+    "accentcity": "Tumakuru",
+    "region": "19",
+    "population": null,
+    "latitude": "13.342222",
+    "longitude": "77.101667"
+  },
+  "udupi": {
+    "city": "udupi",
+    "accentcity": "Udupi",
+    "region": "19",
+    "population": "129124",
+    "latitude": "13.35",
+    "longitude": "74.75"
+  },
+  "uttara kannada": {
+    "city": "uttara kannada",
+    "latitude": "14.793707",
+    "longitude": "74.686882"
+  },
+  "vijayapura": {
+    "city": "vijayapura",
+    "accentcity": "Vijayapura",
+    "region": "19",
+    "population": null,
+    "latitude": "16.827545",
+    "longitude": "75.725327"
+  },
+  "chitradurga": {
+    "city": "chitradurga",
+    "accentcity": "Chitradurga",
+    "region": "19",
+    "population": "138599",
+    "latitude": "14.233333",
+    "longitude": "76.4"
+  },
+  "bengaluru urban": {
+    "city": "bengaluru urban",
+    "accentcity": "Bengaluru",
+    "region": "19",
+    "population": null,
+    "latitude": "12.983333",
+    "longitude": "77.583333"
+  },
+  "haveri": {
+    "city": "haveri",
+    "accentcity": "Haveri",
+    "region": "19",
+    "population": "60161",
+    "latitude": "14.8",
+    "longitude": "75.4"
+  },
+  "shivamogga": {
+    "city": "shivamogga",
+    "accentcity": "Shivamogga",
+    "region": "19",
+    "population": null,
+    "latitude": "13.922222",
+    "longitude": "75.573611"
+  },
+  "hassan": {
+    "city": "hassan",
+    "accentcity": "Hassan",
+    "region": "19",
+    "population": "128542",
+    "latitude": "13.000556",
+    "longitude": "76.099444"
+  },
+  "kolar": {
+    "city": "kolar",
+    "accentcity": "Kolar",
+    "region": "19",
+    "population": "126452",
+    "latitude": "13.133333",
+    "longitude": "78.133333"
+  },
+  "yadgir": {
+    "city": "yadgir",
+    "accentcity": "Yadgir",
+    "region": "19",
+    "population": "65381",
+    "latitude": "16.766667",
+    "longitude": "77.133333"
+  },
+  "chikkamagaluru": {
+    "city": "chikkamagaluru",
+    "accentcity": "Chikkamagaluru",
+    "region": "19",
+    "population": null,
+    "latitude": "13.316667",
+    "longitude": "75.783333"
+  },
+  "koppal": {
+    "city": "koppal",
+    "accentcity": "Koppal",
+    "region": "19",
+    "population": "60873",
+    "latitude": "15.35",
+    "longitude": "76.15"
+  },
+  "raichur": {
+    "city": "raichur",
+    "accentcity": "Raichur",
+    "region": "19",
+    "population": "225981",
+    "latitude": "16.2",
+    "longitude": "77.366667"
+  },
+  "alappuzha": {
+    "city": "alappuzha",
+    "accentcity": "Alappuzha",
+    "region": "13",
+    "population": "176799",
+    "latitude": "9.494167",
+    "longitude": "76.3275"
+  },
+  "ernakulam": {
+    "city": "ernakulam",
+    "accentcity": "Ernakulam",
+    "region": "13",
+    "population": null,
+    "latitude": "9.983333",
+    "longitude": "76.283333"
+  },
+  "idukki": {
+    "city": "idukki",
+    "accentcity": "Idukki",
+    "region": "13",
+    "population": "11249",
+    "latitude": "9.85",
+    "longitude": "76.966667"
+  },
+  "kannur": {
+    "city": "kannur",
+    "accentcity": "Kannur",
+    "region": "13",
+    "population": "7625",
+    "latitude": "11.866667",
+    "longitude": "75.365278"
+  },
+  "kasaragod": {
+    "city": "kasaragod",
+    "accentcity": "Kasaragod",
+    "region": "13",
+    "population": "53313",
+    "latitude": "12.5",
+    "longitude": "75"
+  },
+  "kollam": {
+    "city": "kollam",
+    "accentcity": "Kollam",
+    "region": "13",
+    "population": "394198",
+    "latitude": "8.880556",
+    "longitude": "76.591667"
+  },
+  "kottayam": {
+    "city": "kottayam",
+    "accentcity": "Kottayam",
+    "region": "13",
+    "population": "59442",
+    "latitude": "9.583333",
+    "longitude": "76.516667"
+  },
+  "kozhikode": {
+    "city": "kozhikode",
+    "accentcity": "Kozhikode",
+    "region": "13",
+    "population": null,
+    "latitude": "11.25",
+    "longitude": "75.766667"
+  },
+  "malappuram": {
+    "city": "malappuram",
+    "accentcity": "Malappuram",
+    "region": "13",
+    "population": "61749",
+    "latitude": "11.066667",
+    "longitude": "76.066667"
+  },
+  "palakkad": {
+    "city": "palakkad",
+    "accentcity": "Palakkad",
+    "region": "13",
+    "population": "132740",
+    "latitude": "10.7725",
+    "longitude": "76.651389"
+  },
+  "pathanamthitta": {
+    "city": "pathanamthitta",
+    "accentcity": "Pathanamthitta",
+    "region": "13",
+    "population": "38288",
+    "latitude": "9.266667",
+    "longitude": "76.783333"
+  },
+  "thiruvananthapuram": {
+    "city": "thiruvananthapuram",
+    "accentcity": "Thiruvananthapuram",
+    "region": "13",
+    "population": "784223",
+    "latitude": "8.506944",
+    "longitude": "76.956944"
+  },
+  "thrissur": {
+    "city": "thrissur",
+    "accentcity": "Thrissur",
+    "region": "13",
+    "population": "325140",
+    "latitude": "10.516667",
+    "longitude": "76.216667"
+  },
+  "wayanad": {
+    "city": "wayanad",
+    "latitude": "11.703206",
+    "longitude": "76.0834"
+  },
+  "kargil": {
+    "city": "kargil",
+    "accentcity": "Kargil",
+    "region": "12",
+    "population": "13843",
+    "latitude": "34.566667",
+    "longitude": "76.1"
+  },
+  "leh": {
+    "city": "leh",
+    "accentcity": "Leh",
+    "region": "12",
+    "population": "37498",
+    "latitude": "34.166667",
+    "longitude": "77.583333"
+  },
+  "alirajpur": {
+    "city": "alirajpur",
+    "accentcity": "Alirajpur",
+    "region": "35",
+    "population": "26446",
+    "latitude": "22.3",
+    "longitude": "74.35"
+  },
+  "barwani": {
+    "city": "barwani",
+    "accentcity": "Barwani",
+    "region": "35",
+    "population": "47348",
+    "latitude": "22.033333",
+    "longitude": "74.9"
+  },
+  "betul": {
+    "city": "betul",
+    "accentcity": "Betul",
+    "region": "35",
+    "population": "91963",
+    "latitude": "21.856111",
+    "longitude": "77.9275"
+  },
+  "bhopal": {
+    "city": "bhopal",
+    "accentcity": "Bhopal",
+    "region": "35",
+    "population": "1600080",
+    "latitude": "23.266667",
+    "longitude": "77.4"
+  },
+  "chhindwara": {
+    "city": "chhindwara",
+    "accentcity": "Chhindwara",
+    "region": "35",
+    "population": "134862",
+    "latitude": "22.066667",
+    "longitude": "78.933333"
+  },
+  "dewas": {
+    "city": "dewas",
+    "accentcity": "Dewas",
+    "region": "35",
+    "population": "261245",
+    "latitude": "22.966667",
+    "longitude": "76.066667"
+  },
+  "dhar": {
+    "city": "dhar",
+    "accentcity": "Dhar",
+    "region": "35",
+    "population": "82447",
+    "latitude": "22.6",
+    "longitude": "75.3"
+  },
+  "gwalior": {
+    "city": "gwalior",
+    "accentcity": "Gwalior",
+    "region": "35",
+    "population": "882551",
+    "latitude": "26.223611",
+    "longitude": "78.179167"
+  },
+  "hoshangabad": {
+    "city": "hoshangabad",
+    "accentcity": "Hoshangabad",
+    "region": "35",
+    "population": "109370",
+    "latitude": "22.75",
+    "longitude": "77.716667"
+  },
+  "indore": {
+    "city": "indore",
+    "accentcity": "Indore",
+    "region": "35",
+    "population": "1837230",
+    "latitude": "22.716667",
+    "longitude": "75.833333"
+  },
+  "jabalpur": {
+    "city": "jabalpur",
+    "accentcity": "Jabalpur",
+    "region": "35",
+    "population": "1030276",
+    "latitude": "23.166667",
+    "longitude": "79.95"
+  },
+  "khandwa": {
+    "city": "khandwa",
+    "accentcity": "Khandwa",
+    "region": "35",
+    "population": "182860",
+    "latitude": "21.833333",
+    "longitude": "76.333333"
+  },
+  "khargone": {
+    "city": "khargone",
+    "accentcity": "Khargone",
+    "region": "35",
+    "population": "94995",
+    "latitude": "21.816667",
+    "longitude": "75.6"
+  },
+  "mandsaur": {
+    "city": "mandsaur",
+    "accentcity": "Mandsaur",
+    "region": "35",
+    "population": "125002",
+    "latitude": "24.066667",
+    "longitude": "75.066667"
+  },
+  "morena": {
+    "city": "morena",
+    "accentcity": "Morena",
+    "region": "35",
+    "population": "152020",
+    "latitude": "26.496944",
+    "longitude": "78"
+  },
+  "raisen": {
+    "city": "raisen",
+    "accentcity": "Raisen",
+    "region": "35",
+    "population": "40982",
+    "latitude": "23.333333",
+    "longitude": "77.8"
+  },
+  "rajgarh": {
+    "city": "rajgarh",
+    "accentcity": "Rajgarh",
+    "region": "36",
+    "population": null,
+    "latitude": "24.866667",
+    "longitude": "82.85"
+  },
+  "ratlam": {
+    "city": "ratlam",
+    "accentcity": "Ratlam",
+    "region": "35",
+    "population": "236868",
+    "latitude": "23.316667",
+    "longitude": "75.066667"
+  },
+  "sagar": {
+    "city": "sagar",
+    "accentcity": "Sagar",
+    "region": "37",
+    "population": null,
+    "latitude": "22.066667",
+    "longitude": "82"
+  },
+  "satna": {
+    "city": "satna",
+    "accentcity": "Satna",
+    "region": "35",
+    "population": "257805",
+    "latitude": "24.583333",
+    "longitude": "80.833333"
+  },
+  "shajapur": {
+    "city": "shajapur",
+    "accentcity": "Shajapur",
+    "region": "35",
+    "population": "53352",
+    "latitude": "23.433333",
+    "longitude": "76.266667"
+  },
+  "sheopur": {
+    "city": "sheopur",
+    "accentcity": "Sheopur",
+    "region": "35",
+    "population": "62422",
+    "latitude": "25.666667",
+    "longitude": "76.7"
+  },
+  "shivpuri": {
+    "city": "shivpuri",
+    "accentcity": "Shivpuri",
+    "region": "39",
+    "population": null,
+    "latitude": "30.15",
+    "longitude": "78.383333"
+  },
+  "tikamgarh": {
+    "city": "tikamgarh",
+    "accentcity": "Tikamgarh",
+    "region": "36",
+    "population": "74732",
+    "latitude": "24.733333",
+    "longitude": "78.833333"
+  },
+  "ujjain": {
+    "city": "ujjain",
+    "accentcity": "Ujjain",
+    "region": "35",
+    "population": "457395",
+    "latitude": "23.183333",
+    "longitude": "75.766667"
+  },
+  "vidisha": {
+    "city": "vidisha",
+    "accentcity": "Vidisha",
+    "region": "35",
+    "population": "140059",
+    "latitude": "23.533333",
+    "longitude": "77.816667"
+  },
+  "burhanpur": {
+    "city": "burhanpur",
+    "accentcity": "Burhanpur",
+    "region": "35",
+    "population": "202717",
+    "latitude": "21.3",
+    "longitude": "76.233333"
+  },
+  "dindori": {
+    "city": "dindori",
+    "accentcity": "Dindori",
+    "region": "35",
+    "population": "19265",
+    "latitude": "22.95",
+    "longitude": "81.083333"
+  },
+  "harda": {
+    "city": "harda",
+    "accentcity": "Harda",
+    "region": "35",
+    "population": "67394",
+    "latitude": "22.333333",
+    "longitude": "77.1"
+  },
+  "ashoknagar": {
+    "city": "ashoknagar",
+    "accentcity": "Ashoknagar",
+    "region": "35",
+    "population": "64729",
+    "latitude": "24.566667",
+    "longitude": "77.716667"
+  },
+  "rewa": {
+    "city": "rewa",
+    "accentcity": "Rewa",
+    "region": "35",
+    "population": "208483",
+    "latitude": "24.533333",
+    "longitude": "81.3"
+  },
+  "shahdol": {
+    "city": "shahdol",
+    "accentcity": "Shahdol",
+    "region": "35",
+    "population": "89298",
+    "latitude": "23.283333",
+    "longitude": "81.35"
+  },
+  "anuppur": {
+    "city": "anuppur",
+    "accentcity": "Anuppur",
+    "region": "35",
+    "population": "18124",
+    "latitude": "23.1",
+    "longitude": "81.683333"
+  },
+  "katni": {
+    "city": "katni",
+    "accentcity": "Katni",
+    "region": "35",
+    "population": null,
+    "latitude": "23.816667",
+    "longitude": "80.4"
+  },
+  "niwari": {
+    "city": "niwari",
+    "accentcity": "Niwari",
+    "region": "36",
+    "population": "10331",
+    "latitude": "28.883333",
+    "longitude": "77.533333"
+  },
+  "panna": {
+    "city": "panna",
+    "accentcity": "Panna",
+    "region": "35",
+    "population": "46796",
+    "latitude": "24.716667",
+    "longitude": "80.2"
+  },
+  "neemuch": {
+    "city": "neemuch",
+    "latitude": "24.45",
+    "longitude": "74.87"
+  },
+  "jhabua": {
+    "city": "jhabua",
+    "accentcity": "Jhabua",
+    "region": "35",
+    "population": "34138",
+    "latitude": "22.766667",
+    "longitude": "74.6"
+  },
+  "guna": {
+    "city": "guna",
+    "accentcity": "Guna",
+    "region": "35",
+    "population": "153705",
+    "latitude": "24.65",
+    "longitude": "77.316667"
+  },
+  "sehore": {
+    "city": "sehore",
+    "accentcity": "Sehore",
+    "region": "35",
+    "population": "99294",
+    "latitude": "23.2",
+    "longitude": "77.083333"
+  },
+  "bhind": {
+    "city": "bhind",
+    "accentcity": "Bhind",
+    "region": "35",
+    "population": "174053",
+    "latitude": "26.564167",
+    "longitude": "78.788333"
+  },
+  "mandla": {
+    "city": "mandla",
+    "accentcity": "Mandla",
+    "region": "35",
+    "population": "45189",
+    "latitude": "22.6",
+    "longitude": "80.383333"
+  },
+  "seoni": {
+    "city": "seoni",
+    "accentcity": "Seoni",
+    "region": "35",
+    "population": "101389",
+    "latitude": "22.083333",
+    "longitude": "79.533333"
+  },
+  "sidhi": {
+    "city": "sidhi",
+    "accentcity": "Sidhi",
+    "region": "35",
+    "population": "54248",
+    "latitude": "24.416667",
+    "longitude": "81.883333"
+  },
+  "balaghat": {
+    "city": "balaghat",
+    "accentcity": "Balaghat",
+    "region": "35",
+    "population": "80368",
+    "latitude": "21.783333",
+    "longitude": "80.25"
+  },
+  "chhatarpur": {
+    "city": "chhatarpur",
+    "accentcity": "Chhatarpur",
+    "region": "38",
+    "population": null,
+    "latitude": "24.383333",
+    "longitude": "84.183333"
+  },
+  "damoh": {
+    "city": "damoh",
+    "accentcity": "Damoh",
+    "region": "35",
+    "population": "118789",
+    "latitude": "23.833333",
+    "longitude": "79.45"
+  },
+  "datia": {
+    "city": "datia",
+    "accentcity": "Datia",
+    "region": "35",
+    "population": "90638",
+    "latitude": "25.666667",
+    "longitude": "78.466667"
+  },
+  "narsinghpur": {
+    "city": "narsinghpur",
+    "accentcity": "Narsinghpur",
+    "region": "35",
+    "population": null,
+    "latitude": "22.95",
+    "longitude": "79.2"
+  },
+  "umaria": {
+    "city": "umaria",
+    "accentcity": "Umaria",
+    "region": "35",
+    "population": "29743",
+    "latitude": "23.533333",
+    "longitude": "80.833333"
+  },
+  "ahmadnagar": {
+    "city": "ahmadnagar",
+    "accentcity": "Ahmadnagar",
+    "region": "16",
+    "population": "367168",
+    "latitude": "19.083333",
+    "longitude": "74.733333"
+  },
+  "akola": {
+    "city": "akola",
+    "accentcity": "Akola",
+    "region": "24",
+    "population": null,
+    "latitude": "24.766667",
+    "longitude": "74.2"
+  },
+  "amravati": {
+    "city": "amravati",
+    "accentcity": "Amravati",
+    "region": "16",
+    "population": "603885",
+    "latitude": "20.933333",
+    "longitude": "77.75"
+  },
+  "bid": {
+    "city": "bid",
+    "accentcity": "Bid",
+    "region": "16",
+    "population": "148477",
+    "latitude": "18.983333",
+    "longitude": "75.766667"
+  },
+  "buldana": {
+    "city": "buldana",
+    "accentcity": "Buldana",
+    "region": "16",
+    "population": "66996",
+    "latitude": "20.533333",
+    "longitude": "76.183333"
+  },
+  "chandrapur": {
+    "city": "chandrapur",
+    "accentcity": "Chandrapur",
+    "region": "21",
+    "population": null,
+    "latitude": "19.6",
+    "longitude": "83.883333"
+  },
+  "dhule": {
+    "city": "dhule",
+    "accentcity": "Dhule",
+    "region": "16",
+    "population": "367010",
+    "latitude": "20.9",
+    "longitude": "74.783333"
+  },
+  "hingoli": {
+    "city": "hingoli",
+    "accentcity": "Hingoli",
+    "region": "24",
+    "population": null,
+    "latitude": "26.716667",
+    "longitude": "73.483333"
+  },
+  "jalgaon": {
+    "city": "jalgaon",
+    "accentcity": "Jalgaon",
+    "region": "16",
+    "population": "27796",
+    "latitude": "21.048611",
+    "longitude": "76.534444"
+  },
+  "jalna": {
+    "city": "jalna",
+    "accentcity": "Jalna",
+    "region": "16",
+    "population": "262055",
+    "latitude": "19.833333",
+    "longitude": "75.883333"
+  },
+  "kolhapur": {
+    "city": "kolhapur",
+    "accentcity": "Kolhapur",
+    "region": "16",
+    "population": "516184",
+    "latitude": "16.7",
+    "longitude": "74.216667"
+  },
+  "latur": {
+    "city": "latur",
+    "accentcity": "Latur",
+    "region": "16",
+    "population": "348994",
+    "latitude": "18.4",
+    "longitude": "76.583333"
+  },
+  "mumbai": {
+    "city": "mumbai",
+    "accentcity": "Mumbai",
+    "region": "16",
+    "population": null,
+    "latitude": "18.975",
+    "longitude": "72.825833"
+  },
+  "nagpur": {
+    "city": "nagpur",
+    "accentcity": "Nagpur",
+    "region": "37",
+    "population": null,
+    "latitude": "23.3",
+    "longitude": "82.3"
+  },
+  "nandurbar": {
+    "city": "nandurbar",
+    "accentcity": "Nandurbar",
+    "region": "16",
+    "population": "100711",
+    "latitude": "21.366667",
+    "longitude": "74.25"
+  },
+  "nashik": {
+    "city": "nashik",
+    "latitude": "19.9974533",
+    "longitude": "73.7898023"
+  },
+  "osmanabad": {
+    "city": "osmanabad",
+    "accentcity": "Osmanabad",
+    "region": "16",
+    "population": "85528",
+    "latitude": "18.166667",
+    "longitude": "76.05"
+  },
+  "palghar": {
+    "city": "palghar",
+    "accentcity": "Palghar",
+    "region": "16",
+    "population": "72383",
+    "latitude": "19.683333",
+    "longitude": "72.75"
+  },
+  "parbhani": {
+    "city": "parbhani",
+    "accentcity": "Parbhani",
+    "region": "16",
+    "population": "289652",
+    "latitude": "19.266667",
+    "longitude": "76.783333"
+  },
+  "pune": {
+    "city": "pune",
+    "accentcity": "Pune",
+    "region": "16",
+    "population": "2935968",
+    "latitude": "18.533333",
+    "longitude": "73.866667"
+  },
+  "ratnagiri": {
+    "city": "ratnagiri",
+    "accentcity": "Ratnagiri",
+    "region": "21",
+    "population": null,
+    "latitude": "20.633333",
+    "longitude": "86.333333"
+  },
+  "sangli": {
+    "city": "sangli",
+    "accentcity": "Sangli",
+    "region": "16",
+    "population": null,
+    "latitude": "16.866667",
+    "longitude": "74.566667"
+  },
+  "satara": {
+    "city": "satara",
+    "accentcity": "Satara",
+    "region": "16",
+    "population": "112802",
+    "latitude": "17.683333",
+    "longitude": "73.983333"
+  },
+  "sindhudurg": {
+    "city": "sindhudurg",
+    "latitude": "16.349219",
+    "longitude": "73.559413"
+  },
+  "solapur": {
+    "city": "solapur",
+    "accentcity": "Solapur",
+    "region": "16",
+    "population": null,
+    "latitude": "17.683333",
+    "longitude": "75.916667"
+  },
+  "thane": {
+    "city": "thane",
+    "accentcity": "Thane",
+    "region": "16",
+    "population": null,
+    "latitude": "19.2",
+    "longitude": "72.966667"
+  },
+  "washim": {
+    "city": "washim",
+    "accentcity": "Washim",
+    "region": "16",
+    "population": "68628",
+    "latitude": "20.1",
+    "longitude": "77.15"
+  },
+  "yavatmal": {
+    "city": "yavatmal",
+    "accentcity": "Yavatmal",
+    "region": "16",
+    "population": "128185",
+    "latitude": "20.4",
+    "longitude": "78.133333"
+  },
+  "nanded": {
+    "city": "nanded",
+    "accentcity": "Nanded",
+    "region": "16",
+    "population": "485150",
+    "latitude": "19.15",
+    "longitude": "77.333333"
+  },
+  "bhandara": {
+    "city": "bhandara",
+    "accentcity": "Bhandara",
+    "region": "37",
+    "population": null,
+    "latitude": "21.4",
+    "longitude": "82.1"
+  },
+  "ahmednagar": {
+    "city": "ahmednagar",
+    "accentcity": "Ahmednagar",
+    "region": "16",
+    "population": null,
+    "latitude": "19.083333",
+    "longitude": "74.733333"
+  },
+  "beed": {
+    "city": "beed",
+    "latitude": "18.9890893",
+    "longitude": "75.76007849999996"
+  },
+  "buldhana": {
+    "city": "buldhana",
+    "latitude": "20.5292147",
+    "longitude": "76.1841701"
+  },
+  "gondia": {
+    "city": "gondia",
+    "accentcity": "Gondia",
+    "region": "21",
+    "population": null,
+    "latitude": "20.783333",
+    "longitude": "85.8"
+  },
+  "raigad": {
+    "city": "raigad",
+    "latitude": "18.515752",
+    "longitude": "73.182162"
+  },
+  "wardha": {
+    "city": "wardha",
+    "accentcity": "Wardha",
+    "region": "16",
+    "population": "113768",
+    "latitude": "20.75",
+    "longitude": "78.616667"
+  },
+  "gadchiroli": {
+    "city": "gadchiroli",
+    "latitude": "20.184871",
+    "longitude": "79.994796"
+  },
+  "bishnupur": {
+    "city": "bishnupur",
+    "accentcity": "Bishnupur",
+    "region": "28",
+    "population": "4429",
+    "latitude": "22.383333",
+    "longitude": "88.266667"
+  },
+  "chandel": {
+    "city": "chandel",
+    "accentcity": "Chandel",
+    "region": "33",
+    "population": null,
+    "latitude": "15.733333",
+    "longitude": "73.883333"
+  },
+  "churachandpur": {
+    "city": "churachandpur",
+    "accentcity": "Churachandpur",
+    "region": "17",
+    "population": "47774",
+    "latitude": "24.333333",
+    "longitude": "93.666667"
+  },
+  "kakching": {
+    "city": "kakching",
+    "accentcity": "Kakching",
+    "region": "17",
+    "population": "30420",
+    "latitude": "24.483333",
+    "longitude": "93.983333"
+  },
+  "kangpokpi": {
+    "city": "kangpokpi",
+    "accentcity": "Kangpokpi",
+    "region": "17",
+    "population": null,
+    "latitude": "25.133333",
+    "longitude": "93.966667"
+  },
+  "tamenglong": {
+    "city": "tamenglong",
+    "accentcity": "Tamenglong",
+    "region": "17",
+    "population": null,
+    "latitude": "24.966667",
+    "longitude": "93.55"
+  },
+  "thoubal": {
+    "city": "thoubal",
+    "accentcity": "Thoubal",
+    "region": "17",
+    "population": "44497",
+    "latitude": "24.633333",
+    "longitude": "94.016667"
+  },
+  "ukhrul": {
+    "city": "ukhrul",
+    "accentcity": "Ukhrul",
+    "region": "17",
+    "population": null,
+    "latitude": "25.116667",
+    "longitude": "94.366667"
+  },
+  "aizawl": {
+    "city": "aizawl",
+    "accentcity": "Aizawl",
+    "region": "31",
+    "population": "265353",
+    "latitude": "23.724444",
+    "longitude": "92.7175"
+  },
+  "lawngtlai": {
+    "city": "lawngtlai",
+    "accentcity": "Lawngtlai",
+    "region": "31",
+    "population": null,
+    "latitude": "22.533333",
+    "longitude": "92.9"
+  },
+  "lunglei": {
+    "city": "lunglei",
+    "accentcity": "Lunglei",
+    "region": "31",
+    "population": "52734",
+    "latitude": "22.883333",
+    "longitude": "92.733333"
+  },
+  "mamit": {
+    "city": "mamit",
+    "accentcity": "Mamit",
+    "region": "31",
+    "population": "6104",
+    "latitude": "23.933333",
+    "longitude": "92.483333"
+  },
+  "saiha": {
+    "city": "saiha",
+    "accentcity": "Saiha",
+    "region": "31",
+    "population": "22657",
+    "latitude": "22.483333",
+    "longitude": "92.966667"
+  },
+  "saitual": {
+    "city": "saitual",
+    "accentcity": "Saitual",
+    "region": "31",
+    "population": null,
+    "latitude": "23.966667",
+    "longitude": "92.583333"
+  },
+  "serchhip": {
+    "city": "serchhip",
+    "accentcity": "Serchhip",
+    "region": "31",
+    "population": "20246",
+    "latitude": "23.3",
+    "longitude": "92.833333"
+  },
+  "baleshwar": {
+    "city": "baleshwar",
+    "accentcity": "Baleshwar",
+    "region": "21",
+    "population": "114331",
+    "latitude": "21.494167",
+    "longitude": "86.931667"
+  },
+  "bhadrak": {
+    "city": "bhadrak",
+    "accentcity": "Bhadrak",
+    "region": "21",
+    "population": "98657",
+    "latitude": "21.052778",
+    "longitude": "86.52"
+  },
+  "cuttack": {
+    "city": "cuttack",
+    "accentcity": "Cuttack",
+    "region": "21",
+    "population": null,
+    "latitude": "20.5",
+    "longitude": "85.833333"
+  },
+  "dhenkanal": {
+    "city": "dhenkanal",
+    "accentcity": "Dhenkanal",
+    "region": "21",
+    "population": "62235",
+    "latitude": "20.666667",
+    "longitude": "85.6"
+  },
+  "jajapur": {
+    "city": "jajapur",
+    "latitude": "20.069092",
+    "longitude": "85.805739"
+  },
+  "kalahandi": {
+    "city": "kalahandi",
+    "latitude": "19.913736",
+    "longitude": "83.1649"
+  },
+  "kendrapara": {
+    "city": "kendrapara",
+    "accentcity": "Kendrapara",
+    "region": "21",
+    "population": "43847",
+    "latitude": "20.5",
+    "longitude": "86.416667"
+  },
+  "khordha": {
+    "city": "khordha",
+    "accentcity": "Khordha",
+    "region": "21",
+    "population": null,
+    "latitude": "20.183333",
+    "longitude": "85.616667"
+  },
+  "puri": {
+    "city": "puri",
+    "accentcity": "Puri",
+    "region": "37",
+    "population": null,
+    "latitude": "20.430833",
+    "longitude": "81.255"
+  },
+  "sundargarh": {
+    "city": "sundargarh",
+    "accentcity": "Sundargarh",
+    "region": "21",
+    "population": "41709",
+    "latitude": "22.116667",
+    "longitude": "84.033333"
+  },
+  "koraput": {
+    "city": "koraput",
+    "accentcity": "Koraput",
+    "region": "21",
+    "population": "41174",
+    "latitude": "18.816667",
+    "longitude": "82.716667"
+  },
+  "jharsuguda": {
+    "city": "jharsuguda",
+    "accentcity": "Jharsuguda",
+    "region": "21",
+    "population": "79499",
+    "latitude": "21.85",
+    "longitude": "84.033333"
+  },
+  "kendujhar": {
+    "city": "kendujhar",
+    "latitude": "21.628933",
+    "longitude": "85.58168469999998"
+  },
+  "balangir": {
+    "city": "balangir",
+    "accentcity": "Balangir",
+    "region": "21",
+    "population": "91249",
+    "latitude": "20.716667",
+    "longitude": "83.483333"
+  },
+  "balasore": {
+    "city": "balasore",
+    "accentcity": "Balasore",
+    "region": "21",
+    "population": null,
+    "latitude": "21.494167",
+    "longitude": "86.931667"
+  },
+  "deogarh": {
+    "city": "deogarh",
+    "accentcity": "Deogarh",
+    "region": "38",
+    "population": null,
+    "latitude": "24.483333",
+    "longitude": "86.7"
+  },
+  "jajpur": {
+    "city": "jajpur",
+    "accentcity": "Jajpur",
+    "region": "21",
+    "population": null,
+    "latitude": "20.85",
+    "longitude": "86.333333"
+  },
+  "ganjam": {
+    "city": "ganjam",
+    "accentcity": "Ganjam",
+    "region": "21",
+    "population": "11430",
+    "latitude": "19.387389",
+    "longitude": "85.0515413"
+  },
+  "jagatsinghpur": {
+    "city": "jagatsinghpur",
+    "accentcity": "Jagatsinghpur",
+    "region": "21",
+    "population": null,
+    "latitude": "20.266667",
+    "longitude": "86.166667"
+  },
+  "mayurbhanj": {
+    "city": "mayurbhanj",
+    "accentcity": "Mayurbhanj",
+    "region": "21",
+    "population": null,
+    "latitude": "21.935",
+    "longitude": "86.721389"
+  },
+  "nayagarh": {
+    "city": "nayagarh",
+    "accentcity": "Nayagarh",
+    "region": "21",
+    "population": "16002",
+    "latitude": "20.133333",
+    "longitude": "85.1"
+  },
+  "angul": {
+    "city": "angul",
+    "accentcity": "Angul",
+    "region": "21",
+    "population": "44390",
+    "latitude": "20.85",
+    "longitude": "85.1"
+  },
+  "boudh": {
+    "city": "boudh",
+    "latitude": "20.841821",
+    "longitude": "84.320018"
+  },
+  "bargarh": {
+    "city": "bargarh",
+    "accentcity": "Bargarh",
+    "region": "37",
+    "population": null,
+    "latitude": "23.633333",
+    "longitude": "83.783333"
+  },
+  "gajapati": {
+    "city": "gajapati",
+    "latitude": "19.191222",
+    "longitude": "84.185712"
+  },
+  "kandhamal": {
+    "city": "kandhamal",
+    "latitude": "20.134204",
+    "longitude": "84.016742"
+  },
+  "malkangiri": {
+    "city": "malkangiri",
+    "accentcity": "Malkangiri",
+    "region": "37",
+    "population": "25056",
+    "latitude": "18.35",
+    "longitude": "81.9"
+  },
+  "nuapada": {
+    "city": "nuapada",
+    "latitude": "20.806018",
+    "longitude": "82.536139"
+  },
+  "rayagada": {
+    "city": "rayagada",
+    "accentcity": "Rayagada",
+    "region": "21",
+    "population": "61410",
+    "latitude": "19.166667",
+    "longitude": "83.416667"
+  },
+  "sambalpur": {
+    "city": "sambalpur",
+    "accentcity": "Sambalpur",
+    "region": "37",
+    "population": null,
+    "latitude": "20.303611",
+    "longitude": "81.038056"
+  },
+  "subarnapur": {
+    "city": "subarnapur",
+    "latitude": "20.433638",
+    "longitude": "85.610077"
+  },
+  "mahe": {
+    "city": "mahe",
+    "accentcity": "Mahe",
+    "region": "13",
+    "population": "38188",
+    "latitude": "11.7",
+    "longitude": "75.533333"
+  },
+  "puducherry": {
+    "city": "puducherry",
+    "accentcity": "Puducherry",
+    "region": "22",
+    "population": null,
+    "latitude": "11.93",
+    "longitude": "79.83"
+  },
+  "karaikal": {
+    "city": "karaikal",
+    "accentcity": "karaikal",
+    "region": "22",
+    "population": null,
+    "latitude": "10.916667",
+    "longitude": "79.833333"
+  },
+  "yanam": {
+    "city": "yanam",
+    "accentcity": "Yanam",
+    "region": "02",
+    "population": "36900",
+    "latitude": "16.733333",
+    "longitude": "82.216667"
+  },
+  "amritsar": {
+    "city": "amritsar",
+    "accentcity": "Amritsar",
+    "region": "23",
+    "population": "1092528",
+    "latitude": "31.633056",
+    "longitude": "74.865556"
+  },
+  "barnala": {
+    "city": "barnala",
+    "accentcity": "Barnala",
+    "region": "23",
+    "population": "105024",
+    "latitude": "30.383333",
+    "longitude": "75.55"
+  },
+  "faridkot": {
+    "city": "faridkot",
+    "accentcity": "Faridkot",
+    "region": "23",
+    "population": "77455",
+    "latitude": "30.666667",
+    "longitude": "74.75"
+  },
+  "fatehgarh sahib": {
+    "city": "fatehgarh sahib",
+    "accentcity": "Fatehgarh Sahib",
+    "region": "23",
+    "population": null,
+    "latitude": "30.533333",
+    "longitude": "75.716667"
+  },
+  "firozpur": {
+    "city": "firozpur",
+    "accentcity": "Firozpur",
+    "region": "23",
+    "population": "102138",
+    "latitude": "30.916667",
+    "longitude": "74.6"
+  },
+  "gurdaspur": {
+    "city": "gurdaspur",
+    "accentcity": "Gurdaspur",
+    "region": "23",
+    "population": "72503",
+    "latitude": "32.033333",
+    "longitude": "75.516667"
+  },
+  "hoshiarpur": {
+    "city": "hoshiarpur",
+    "accentcity": "Hoshiarpur",
+    "region": "23",
+    "population": "158154",
+    "latitude": "31.532222",
+    "longitude": "75.917222"
+  },
+  "jalandhar": {
+    "city": "jalandhar",
+    "accentcity": "Jalandhar",
+    "region": "35",
+    "population": null,
+    "latitude": "23.9",
+    "longitude": "78.433333"
+  },
+  "kapurthala": {
+    "city": "kapurthala",
+    "accentcity": "Kapurthala",
+    "region": "23",
+    "population": "92674",
+    "latitude": "31.379444",
+    "longitude": "75.384722"
+  },
+  "ludhiana": {
+    "city": "ludhiana",
+    "accentcity": "Ludhiana",
+    "region": "23",
+    "population": "1545476",
+    "latitude": "30.9",
+    "longitude": "75.85"
+  },
+  "mansa": {
+    "city": "mansa",
+    "accentcity": "Mansa",
+    "region": "23",
+    "population": "80024",
+    "latitude": "29.983333",
+    "longitude": "75.383333"
+  },
+  "moga": {
+    "city": "moga",
+    "accentcity": "Moga",
+    "region": "23",
+    "population": "130559",
+    "latitude": "30.8",
+    "longitude": "75.166667"
+  },
+  "pathankot": {
+    "city": "pathankot",
+    "accentcity": "Pathankot",
+    "region": "23",
+    "population": "174319",
+    "latitude": "32.283333",
+    "longitude": "75.65"
+  },
+  "patiala": {
+    "city": "patiala",
+    "accentcity": "Patiala",
+    "region": "23",
+    "population": "329248",
+    "latitude": "30.326667",
+    "longitude": "76.400278"
+  },
+  "rupnagar": {
+    "city": "rupnagar",
+    "accentcity": "Rupnagar",
+    "region": "24",
+    "population": null,
+    "latitude": "25.359722",
+    "longitude": "75.551389"
+  },
+  "sangrur": {
+    "city": "sangrur",
+    "accentcity": "Sangrur",
+    "region": "23",
+    "population": "88622",
+    "latitude": "30.233333",
+    "longitude": "75.833333"
+  },
+  "tarn taran": {
+    "city": "tarn taran",
+    "accentcity": "Tarn Taran",
+    "region": "23",
+    "population": "58590",
+    "latitude": "31.45",
+    "longitude": "74.925278"
+  },
+  "fazilka": {
+    "city": "fazilka",
+    "accentcity": "Fazilka",
+    "region": "23",
+    "population": "70893",
+    "latitude": "30.4",
+    "longitude": "74.033333"
+  },
+  "ferozepur": {
+    "city": "ferozepur",
+    "accentcity": "Ferozepur",
+    "region": "23",
+    "population": null,
+    "latitude": "30.916667",
+    "longitude": "74.6"
+  },
+  "ajmer": {
+    "city": "ajmer",
+    "accentcity": "Ajmer",
+    "region": "24",
+    "population": "517947",
+    "latitude": "26.45",
+    "longitude": "74.633333"
+  },
+  "alwar": {
+    "city": "alwar",
+    "accentcity": "Alwar",
+    "region": "24",
+    "population": "283248",
+    "latitude": "27.566667",
+    "longitude": "76.6"
+  },
+  "banswara": {
+    "city": "banswara",
+    "accentcity": "Banswara",
+    "region": "24",
+    "population": "93654",
+    "latitude": "23.55",
+    "longitude": "74.45"
+  },
+  "barmer": {
+    "city": "barmer",
+    "accentcity": "Barmer",
+    "region": "24",
+    "population": "89493",
+    "latitude": "25.75",
+    "longitude": "71.383333"
+  },
+  "bharatpur": {
+    "city": "bharatpur",
+    "accentcity": "Bharatpur",
+    "region": "35",
+    "population": null,
+    "latitude": "23.733333",
+    "longitude": "81.766667"
+  },
+  "bhilwara": {
+    "city": "bhilwara",
+    "accentcity": "Bhilwara",
+    "region": "24",
+    "population": "326454",
+    "latitude": "25.35",
+    "longitude": "74.633333"
+  },
+  "bikaner": {
+    "city": "bikaner",
+    "accentcity": "Bikaner",
+    "region": "24",
+    "population": "576056",
+    "latitude": "28.016667",
+    "longitude": "73.3"
+  },
+  "churu": {
+    "city": "churu",
+    "accentcity": "Churu",
+    "region": "24",
+    "population": "103541",
+    "latitude": "28.3",
+    "longitude": "74.95"
+  },
+  "dausa": {
+    "city": "dausa",
+    "accentcity": "Dausa",
+    "region": "24",
+    "population": null,
+    "latitude": "26.883333",
+    "longitude": "76.333333"
+  },
+  "dhaulpur": {
+    "city": "dhaulpur",
+    "accentcity": "Dhaulpur",
+    "region": "24",
+    "population": "102469",
+    "latitude": "26.7",
+    "longitude": "77.9"
+  },
+  "dungarpur": {
+    "city": "dungarpur",
+    "accentcity": "Dungarpur",
+    "region": "24",
+    "population": "45198",
+    "latitude": "23.833333",
+    "longitude": "73.716667"
+  },
+  "hanumangarh": {
+    "city": "hanumangarh",
+    "accentcity": "Hanumangarh",
+    "region": "24",
+    "population": "155698",
+    "latitude": "29.583333",
+    "longitude": "74.316667"
+  },
+  "jaipur": {
+    "city": "jaipur",
+    "accentcity": "Jaipur",
+    "region": "34",
+    "population": null,
+    "latitude": "24.583333",
+    "longitude": "86.85"
+  },
+  "jaisalmer": {
+    "city": "jaisalmer",
+    "accentcity": "Jaisalmer",
+    "region": "24",
+    "population": "67609",
+    "latitude": "26.916667",
+    "longitude": "70.9"
+  },
+  "jhalawar": {
+    "city": "jhalawar",
+    "accentcity": "Jhalawar",
+    "region": "24",
+    "population": "51888",
+    "latitude": "24.6",
+    "longitude": "76.15"
+  },
+  "jhunjhunu": {
+    "city": "jhunjhunu",
+    "accentcity": "Jhunjhunu",
+    "region": "24",
+    "population": null,
+    "latitude": "28.133333",
+    "longitude": "75.4"
+  },
+  "jodhpur": {
+    "city": "jodhpur",
+    "accentcity": "Jodhpur",
+    "region": "24",
+    "population": "921540",
+    "latitude": "26.286667",
+    "longitude": "73.03"
+  },
+  "karauli": {
+    "city": "karauli",
+    "accentcity": "Karauli",
+    "region": "24",
+    "population": "73722",
+    "latitude": "26.5",
+    "longitude": "77.016667"
+  },
+  "kota": {
+    "city": "kota",
+    "accentcity": "Kota",
+    "region": "39",
+    "population": null,
+    "latitude": "25.2138",
+    "longitude": "75.8648"
+  },
+  "nagaur": {
+    "city": "nagaur",
+    "accentcity": "Nagaur",
+    "region": "24",
+    "population": "96853",
+    "latitude": "27.2",
+    "longitude": "73.733333"
+  },
+  "pali": {
+    "city": "pali",
+    "accentcity": "Pali",
+    "region": "39",
+    "population": null,
+    "latitude": "29.85",
+    "longitude": "78.543889"
+  },
+  "pratapgarh": {
+    "city": "pratapgarh",
+    "accentcity": "Pratapgarh",
+    "region": "36",
+    "population": "13673",
+    "latitude": "25.933333",
+    "longitude": "81.983333"
+  },
+  "sawai madhopur": {
+    "city": "sawai madhopur",
+    "accentcity": "Sawai Madhopur",
+    "region": "24",
+    "population": "108620",
+    "latitude": "25.983333",
+    "longitude": "76.366667"
+  },
+  "sikar": {
+    "city": "sikar",
+    "accentcity": "Sikar",
+    "region": "24",
+    "population": "199946",
+    "latitude": "27.616667",
+    "longitude": "75.15"
+  },
+  "tonk": {
+    "city": "tonk",
+    "accentcity": "Tonk",
+    "region": "35",
+    "population": null,
+    "latitude": "23.1",
+    "longitude": "76.216667"
+  },
+  "udaipur": {
+    "city": "udaipur",
+    "accentcity": "Udaipur",
+    "region": "26",
+    "population": "23293",
+    "latitude": "23.533333",
+    "longitude": "91.483333"
+  },
+  "chittaurgarh": {
+    "city": "chittaurgarh",
+    "accentcity": "Chittaurgarh",
+    "region": "24",
+    "population": "106718",
+    "latitude": "24.883333",
+    "longitude": "74.633333"
+  },
+  "rajsamand": {
+    "city": "rajsamand",
+    "accentcity": "Rajsamand",
+    "region": "24",
+    "population": "63419",
+    "latitude": "25.066667",
+    "longitude": "73.883333"
+  },
+  "baran": {
+    "city": "baran",
+    "accentcity": "Baran",
+    "region": "24",
+    "population": "87484",
+    "latitude": "25.1",
+    "longitude": "76.516667"
+  },
+  "chittorgarh": {
+    "city": "chittorgarh",
+    "latitude": "24.8887435",
+    "longitude": "74.62692160000006"
+  },
+  "dholpur": {
+    "city": "dholpur",
+    "accentcity": "Dholpur",
+    "region": "24",
+    "population": null,
+    "latitude": "26.7",
+    "longitude": "77.9"
+  },
+  "jalore": {
+    "city": "jalore",
+    "latitude": "25.3444799",
+    "longitude": "72.6253763"
+  },
+  "sirohi": {
+    "city": "sirohi",
+    "accentcity": "Sirohi",
+    "region": "24",
+    "population": "38613",
+    "latitude": "24.883333",
+    "longitude": "72.866667"
+  },
+  "bundi": {
+    "city": "bundi",
+    "accentcity": "Bundi",
+    "region": "24",
+    "population": "98576",
+    "latitude": "25.441667",
+    "longitude": "75.641667"
+  },
+  "ganganagar": {
+    "city": "ganganagar",
+    "accentcity": "Ganganagar",
+    "region": "24",
+    "population": "231855",
+    "latitude": "29.916667",
+    "longitude": "73.883333"
+  },
+  "ariyalur": {
+    "city": "ariyalur",
+    "accentcity": "Ariyalur",
+    "region": "25",
+    "population": "29146",
+    "latitude": "11.133333",
+    "longitude": "79.083333"
+  },
+  "chengalpattu": {
+    "city": "chengalpattu",
+    "accentcity": "Chengalpattu",
+    "region": "25",
+    "population": "65695",
+    "latitude": "12.7",
+    "longitude": "79.983333"
+  },
+  "chennai": {
+    "city": "chennai",
+    "accentcity": "Chennai",
+    "region": "25",
+    "population": null,
+    "latitude": "13.083333",
+    "longitude": "80.283333"
+  },
+  "coimbatore": {
+    "city": "coimbatore",
+    "accentcity": "Coimbatore",
+    "region": "25",
+    "population": null,
+    "latitude": "10.9925",
+    "longitude": "76.961389"
+  },
+  "cuddalore": {
+    "city": "cuddalore",
+    "accentcity": "Cuddalore",
+    "region": "25",
+    "population": null,
+    "latitude": "11.75",
+    "longitude": "79.75"
+  },
+  "dindigul": {
+    "city": "dindigul",
+    "accentcity": "Dindigul",
+    "region": "25",
+    "population": "200814",
+    "latitude": "10.35",
+    "longitude": "77.95"
+  },
+  "erode": {
+    "city": "erode",
+    "accentcity": "Erode",
+    "region": "25",
+    "population": "147283",
+    "latitude": "11.35",
+    "longitude": "77.733333"
+  },
+  "kallakurichi": {
+    "city": "kallakurichi",
+    "latitude": "11.7387012",
+    "longitude": "78.96090959999992"
+  },
+  "kancheepuram": {
+    "city": "kancheepuram",
+    "accentcity": "Kancheepuram",
+    "region": "25",
+    "population": null,
+    "latitude": "12.833333",
+    "longitude": "79.716667"
+  },
+  "kanniyakumari": {
+    "city": "kanniyakumari",
+    "accentcity": "Kanniyakumari",
+    "region": "25",
+    "population": "20542",
+    "latitude": "8.076111",
+    "longitude": "77.548333"
+  },
+  "karur": {
+    "city": "karur",
+    "accentcity": "Karur",
+    "region": "25",
+    "population": "76922",
+    "latitude": "10.95",
+    "longitude": "78.083333"
+  },
+  "madurai": {
+    "city": "madurai",
+    "accentcity": "Madurai",
+    "region": "25",
+    "population": "909988",
+    "latitude": "9.933333",
+    "longitude": "78.116667"
+  },
+  "nagapattinam": {
+    "city": "nagapattinam",
+    "accentcity": "Nagapattinam",
+    "region": "25",
+    "population": "94247",
+    "latitude": "10.766667",
+    "longitude": "79.833333"
+  },
+  "namakkal": {
+    "city": "namakkal",
+    "accentcity": "Namakkal",
+    "region": "25",
+    "population": "56002",
+    "latitude": "11.233333",
+    "longitude": "78.166667"
+  },
+  "perambalur": {
+    "city": "perambalur",
+    "accentcity": "Perambalur",
+    "region": "25",
+    "population": "30802",
+    "latitude": "11.233333",
+    "longitude": "78.883333"
+  },
+  "pudukkottai": {
+    "city": "pudukkottai",
+    "accentcity": "Pudukkottai",
+    "region": "25",
+    "population": "112128",
+    "latitude": "10.383333",
+    "longitude": "78.816667"
+  },
+  "ramanathapuram": {
+    "city": "ramanathapuram",
+    "accentcity": "Ramanathapuram",
+    "region": "25",
+    "population": "65320",
+    "latitude": "9.383333",
+    "longitude": "78.833333"
+  },
+  "ranipet": {
+    "city": "ranipet",
+    "accentcity": "Ranipet",
+    "region": "25",
+    "population": null,
+    "latitude": "12.933333",
+    "longitude": "79.333333"
+  },
+  "salem": {
+    "city": "salem",
+    "accentcity": "Salem",
+    "region": "33",
+    "population": null,
+    "latitude": "15.7",
+    "longitude": "73.916667"
+  },
+  "sivaganga": {
+    "city": "sivaganga",
+    "accentcity": "Sivaganga",
+    "region": "25",
+    "population": "42789",
+    "latitude": "9.866667",
+    "longitude": "78.483333"
+  },
+  "tenkasi": {
+    "city": "tenkasi",
+    "accentcity": "Tenkasi",
+    "region": "25",
+    "population": "65501",
+    "latitude": "8.966667",
+    "longitude": "77.3"
+  },
+  "thanjavur": {
+    "city": "thanjavur",
+    "accentcity": "Thanjavur",
+    "region": "25",
+    "population": "219591",
+    "latitude": "10.8",
+    "longitude": "79.15"
+  },
+  "theni": {
+    "city": "theni",
+    "latitude": "10.014526",
+    "longitude": "77.452987"
+  },
+  "thiruvallur": {
+    "city": "thiruvallur",
+    "latitude": "13.123056",
+    "longitude": "79.911953"
+  },
+  "thiruvarur": {
+    "city": "thiruvarur",
+    "accentcity": "Thiruvarur",
+    "region": "25",
+    "population": "58782",
+    "latitude": "10.766667",
+    "longitude": "79.65"
+  },
+  "thoothukkudi": {
+    "city": "thoothukkudi",
+    "latitude": "8.764166099999999",
+    "longitude": "78.13483610000003"
+  },
+  "tiruchirappalli": {
+    "city": "tiruchirappalli",
+    "accentcity": "Tiruchirappalli",
+    "region": "25",
+    "population": null,
+    "latitude": "10.805",
+    "longitude": "78.685556"
+  },
+  "tirunelveli": {
+    "city": "tirunelveli",
+    "accentcity": "Tirunelveli",
+    "region": "25",
+    "population": "435882",
+    "latitude": "8.733333",
+    "longitude": "77.7"
+  },
+  "tiruppur": {
+    "city": "tiruppur",
+    "accentcity": "Tiruppur",
+    "region": "25",
+    "population": "397554",
+    "latitude": "11.1",
+    "longitude": "77.35"
+  },
+  "tiruvannamalai": {
+    "city": "tiruvannamalai",
+    "accentcity": "Tiruvannamalai",
+    "region": "25",
+    "population": "138255",
+    "latitude": "12.216667",
+    "longitude": "79.066667"
+  },
+  "vellore": {
+    "city": "vellore",
+    "accentcity": "Vellore",
+    "region": "25",
+    "population": null,
+    "latitude": "12.933333",
+    "longitude": "79.133333"
+  },
+  "viluppuram": {
+    "city": "viluppuram",
+    "latitude": "11.9368897",
+    "longitude": "79.48726190000002"
+  },
+  "virudhunagar": {
+    "city": "virudhunagar",
+    "latitude": "9.5680116",
+    "longitude": "77.96244350000006"
+  },
+  "dharmapuri": {
+    "city": "dharmapuri",
+    "accentcity": "Dharmapuri",
+    "region": "25",
+    "population": "66022",
+    "latitude": "12.133333",
+    "longitude": "78.166667"
+  },
+  "kanyakumari": {
+    "city": "kanyakumari",
+    "accentcity": "Kanyakumari",
+    "region": "25",
+    "population": null,
+    "latitude": "8.076111",
+    "longitude": "77.548333"
+  },
+  "krishnagiri": {
+    "city": "krishnagiri",
+    "accentcity": "Krishnagiri",
+    "region": "25",
+    "population": "66425",
+    "latitude": "12.533333",
+    "longitude": "78.233333"
+  },
+  "airport quarantine": {
+    "city": "airport quarantine",
+    "latitude": "12.994112",
+    "longitude": "80.170867"
+  },
+  "adilabad": {
+    "city": "adilabad",
+    "accentcity": "Adilabad",
+    "region": "02",
+    "population": "118539",
+    "latitude": "19.666667",
+    "longitude": "78.533333"
+  },
+  "hyderabad": {
+    "city": "hyderabad",
+    "accentcity": "Hyderabad",
+    "region": "02",
+    "population": "3598199",
+    "latitude": "17.375278",
+    "longitude": "78.474444"
+  },
+  "jogulamba gadwal": {
+    "city": "jogulamba gadwal",
+    "latitude": "16.2336589",
+    "longitude": "77.8081363"
+  },
+  "karimnagar": {
+    "city": "karimnagar",
+    "accentcity": "Karimnagar",
+    "region": "28",
+    "population": null,
+    "latitude": "22.134722",
+    "longitude": "88.257778"
+  },
+  "khammam": {
+    "city": "khammam",
+    "accentcity": "Khammam",
+    "region": "02",
+    "population": "170522",
+    "latitude": "17.25",
+    "longitude": "80.15"
+  },
+  "mahabubnagar": {
+    "city": "mahabubnagar",
+    "latitude": "16.7375089",
+    "longitude": "78.00812210000004"
+  },
+  "medak": {
+    "city": "medak",
+    "accentcity": "Medak",
+    "region": "02",
+    "population": "44356",
+    "latitude": "18.033333",
+    "longitude": "78.266667"
+  },
+  "medchal malkajgiri": {
+    "city": "medchal malkajgiri",
+    "latitude": "17.413902",
+    "longitude": "78.585597"
+  },
+  "nalgonda": {
+    "city": "nalgonda",
+    "accentcity": "Nalgonda",
+    "region": "02",
+    "population": "121839",
+    "latitude": "17.05",
+    "longitude": "79.266667"
+  },
+  "nirmal": {
+    "city": "nirmal",
+    "accentcity": "Nirmal",
+    "region": "16",
+    "population": null,
+    "latitude": "19.4",
+    "longitude": "72.766667"
+  },
+  "nizamabad": {
+    "city": "nizamabad",
+    "accentcity": "Nizamabad",
+    "region": "36",
+    "population": "13897",
+    "latitude": "26.050556",
+    "longitude": "83.058889"
+  },
+  "peddapalli": {
+    "city": "peddapalli",
+    "accentcity": "Peddapalli",
+    "region": "02",
+    "population": "33581",
+    "latitude": "18.616667",
+    "longitude": "79.366667"
+  },
+  "ranga reddy": {
+    "city": "ranga reddy",
+    "latitude": "17.389138",
+    "longitude": "77.836728"
+  },
+  "siddipet": {
+    "city": "siddipet",
+    "accentcity": "Siddipet",
+    "region": "02",
+    "population": "64569",
+    "latitude": "18.1",
+    "longitude": "78.85"
+  },
+  "suryapet": {
+    "city": "suryapet",
+    "accentcity": "Suryapet",
+    "region": "02",
+    "population": null,
+    "latitude": "17.15",
+    "longitude": "79.616667"
+  },
+  "vikarabad": {
+    "city": "vikarabad",
+    "accentcity": "Vikarabad",
+    "region": "02",
+    "population": "43342",
+    "latitude": "17.333333",
+    "longitude": "77.9"
+  },
+  "mancherial": {
+    "city": "mancherial",
+    "accentcity": "Mancherial",
+    "region": "02",
+    "population": null,
+    "latitude": "18.866667",
+    "longitude": "79.433333"
+  },
+  "narayanpet": {
+    "city": "narayanpet",
+    "accentcity": "Narayanpet",
+    "region": "02",
+    "population": "39045",
+    "latitude": "16.733333",
+    "longitude": "77.5"
+  },
+  "jagtial": {
+    "city": "jagtial",
+    "accentcity": "Jagtial",
+    "region": "02",
+    "population": "99046",
+    "latitude": "18.8",
+    "longitude": "78.933333"
+  },
+  "jangaon": {
+    "city": "jangaon",
+    "accentcity": "Jangaon",
+    "region": "02",
+    "population": "47563",
+    "latitude": "17.5975",
+    "longitude": "78.876111"
+  },
+  "wanaparthy": {
+    "city": "wanaparthy",
+    "accentcity": "Wanaparthy",
+    "region": "02",
+    "population": null,
+    "latitude": "16.366667",
+    "longitude": "78.066667"
+  },
+  "gomati": {
+    "city": "gomati",
+    "latitude": "23.516671",
+    "longitude": "91.637215"
+  },
+  "north tripura": {
+    "city": "north tripura",
+    "latitude": "24.079714",
+    "longitude": "92.263039"
+  },
+  "dhalai": {
+    "city": "dhalai",
+    "accentcity": "Dhalai",
+    "region": "03",
+    "population": null,
+    "latitude": "24.6",
+    "longitude": "92.833333"
+  },
+  "khowai": {
+    "city": "khowai",
+    "accentcity": "Khowai",
+    "region": "26",
+    "population": "20049",
+    "latitude": "24.1",
+    "longitude": "91.633333"
+  },
+  "sipahijala": {
+    "city": "sipahijala",
+    "latitude": "23.614818",
+    "longitude": "91.327642"
+  },
+  "south tripura": {
+    "city": "south tripura",
+    "latitude": "23.231749",
+    "longitude": "91.559612"
+  },
+  "unokoti": {
+    "city": "unokoti",
+    "latitude": "24.178088",
+    "longitude": "92.027319"
+  },
+  "west tripura": {
+    "city": "west tripura",
+    "latitude": "23.899682",
+    "longitude": "91.404825"
+  },
+  "agra": {
+    "city": "agra",
+    "accentcity": "Agra",
+    "region": "36",
+    "population": "1430194",
+    "latitude": "27.183333",
+    "longitude": "78.016667"
+  },
+  "aligarh": {
+    "city": "aligarh",
+    "accentcity": "Aligarh",
+    "region": "36",
+    "population": "753280",
+    "latitude": "27.883333",
+    "longitude": "78.083333"
+  },
+  "amroha": {
+    "city": "amroha",
+    "accentcity": "Amroha",
+    "region": "36",
+    "population": "176271",
+    "latitude": "28.916667",
+    "longitude": "78.466667"
+  },
+  "auraiya": {
+    "city": "auraiya",
+    "accentcity": "Auraiya",
+    "region": "36",
+    "population": "70515",
+    "latitude": "26.466667",
+    "longitude": "79.516667"
+  },
+  "azamgarh": {
+    "city": "azamgarh",
+    "accentcity": "Azamgarh",
+    "region": "36",
+    "population": "116655",
+    "latitude": "26.06",
+    "longitude": "83.186111"
+  },
+  "baghpat": {
+    "city": "baghpat",
+    "accentcity": "Baghpat",
+    "region": "36",
+    "population": "41770",
+    "latitude": "28.95",
+    "longitude": "77.216667"
+  },
+  "banda": {
+    "city": "banda",
+    "accentcity": "Banda",
+    "region": "36",
+    "population": "152233",
+    "latitude": "25.483333",
+    "longitude": "80.333333"
+  },
+  "bara banki": {
+    "city": "bara banki",
+    "accentcity": "Bara Banki",
+    "region": "36",
+    "population": null,
+    "latitude": "26.916667",
+    "longitude": "81.2"
+  },
+  "bareilly": {
+    "city": "bareilly",
+    "accentcity": "Bareilly",
+    "region": "36",
+    "population": null,
+    "latitude": "28.35",
+    "longitude": "79.416667"
+  },
+  "basti": {
+    "city": "basti",
+    "accentcity": "Basti",
+    "region": "36",
+    "population": "115126",
+    "latitude": "26.8",
+    "longitude": "82.716667"
+  },
+  "bhadohi": {
+    "city": "bhadohi",
+    "accentcity": "Bhadohi",
+    "region": "36",
+    "population": "78576",
+    "latitude": "25.416667",
+    "longitude": "82.566667"
+  },
+  "bijnor": {
+    "city": "bijnor",
+    "accentcity": "Bijnor",
+    "region": "36",
+    "population": "84601",
+    "latitude": "29.15",
+    "longitude": "78.266667"
+  },
+  "budaun": {
+    "city": "budaun",
+    "accentcity": "Budaun",
+    "region": "36",
+    "population": "161571",
+    "latitude": "28.05",
+    "longitude": "79.116667"
+  },
+  "bulandshahr": {
+    "city": "bulandshahr",
+    "accentcity": "Bulandshahr",
+    "region": "36",
+    "population": "198631",
+    "latitude": "28.4",
+    "longitude": "77.85"
+  },
+  "etah": {
+    "city": "etah",
+    "accentcity": "Etah",
+    "region": "36",
+    "population": "120020",
+    "latitude": "27.633333",
+    "longitude": "78.666667"
+  },
+  "etawah": {
+    "city": "etawah",
+    "accentcity": "Etawah",
+    "region": "36",
+    "population": "257472",
+    "latitude": "26.766667",
+    "longitude": "79.033333"
+  },
+  "firozabad": {
+    "city": "firozabad",
+    "accentcity": "Firozabad",
+    "region": "36",
+    "population": "306439",
+    "latitude": "27.15",
+    "longitude": "78.416667"
+  },
+  "gautam buddha nagar": {
+    "city": "gautam buddha nagar",
+    "latitude": "28.358983",
+    "longitude": "77.550762"
+  },
+  "ghaziabad": {
+    "city": "ghaziabad",
+    "accentcity": "Ghaziabad",
+    "region": "36",
+    "population": "1199306",
+    "latitude": "28.666667",
+    "longitude": "77.433333"
+  },
+  "ghazipur": {
+    "city": "ghazipur",
+    "accentcity": "Ghazipur",
+    "region": "36",
+    "population": "103105",
+    "latitude": "25.583333",
+    "longitude": "83.566667"
+  },
+  "gonda": {
+    "city": "gonda",
+    "accentcity": "Gonda",
+    "region": "36",
+    "population": "133596",
+    "latitude": "27.133333",
+    "longitude": "81.933333"
+  },
+  "hapur": {
+    "city": "hapur",
+    "accentcity": "Hapur",
+    "region": "36",
+    "population": "242944",
+    "latitude": "28.716667",
+    "longitude": "77.783333"
+  },
+  "hardoi": {
+    "city": "hardoi",
+    "accentcity": "Hardoi",
+    "region": "36",
+    "population": "122647",
+    "latitude": "27.116667",
+    "longitude": "80.15"
+  },
+  "hathras": {
+    "city": "hathras",
+    "accentcity": "Hathras",
+    "region": "36",
+    "population": "126895",
+    "latitude": "27.6",
+    "longitude": "78.05"
+  },
+  "jaunpur": {
+    "city": "jaunpur",
+    "accentcity": "Jaunpur",
+    "region": "36",
+    "population": "169589",
+    "latitude": "25.733333",
+    "longitude": "82.683333"
+  },
+  "kannauj": {
+    "city": "kannauj",
+    "accentcity": "Kannauj",
+    "region": "36",
+    "population": "76721",
+    "latitude": "27.066667",
+    "longitude": "79.916667"
+  },
+  "kanpur nagar": {
+    "city": "kanpur nagar",
+    "latitude": "26.414825",
+    "longitude": "80.232131"
+  },
+  "kasganj": {
+    "city": "kasganj",
+    "accentcity": "Kasganj",
+    "region": "36",
+    "population": "99472",
+    "latitude": "27.816667",
+    "longitude": "78.65"
+  },
+  "kaushambi": {
+    "city": "kaushambi",
+    "latitude": "25.427998",
+    "longitude": "81.279093"
+  },
+  "kheri": {
+    "city": "kheri",
+    "accentcity": "Kheri",
+    "region": "36",
+    "population": "26330",
+    "latitude": "27.9",
+    "longitude": "80.8"
+  },
+  "lucknow": {
+    "city": "lucknow",
+    "accentcity": "Lucknow",
+    "region": "36",
+    "population": null,
+    "latitude": "26.85",
+    "longitude": "80.916667"
+  },
+  "mainpuri": {
+    "city": "mainpuri",
+    "accentcity": "Mainpuri",
+    "region": "36",
+    "population": "94629",
+    "latitude": "27.233333",
+    "longitude": "79.016667"
+  },
+  "mathura": {
+    "city": "mathura",
+    "accentcity": "Mathura",
+    "region": "36",
+    "population": "330543",
+    "latitude": "27.5",
+    "longitude": "77.683333"
+  },
+  "mau": {
+    "city": "mau",
+    "accentcity": "Mau",
+    "region": "36",
+    "population": "246074",
+    "latitude": "25.941667",
+    "longitude": "83.561111"
+  },
+  "meerut": {
+    "city": "meerut",
+    "accentcity": "Meerut",
+    "region": "36",
+    "population": null,
+    "latitude": "28.983333",
+    "longitude": "77.7"
+  },
+  "mirzapur": {
+    "city": "mirzapur",
+    "accentcity": "Mirzapur",
+    "region": "36",
+    "population": "220051",
+    "latitude": "25.15",
+    "longitude": "82.583333"
+  },
+  "moradabad": {
+    "city": "moradabad",
+    "accentcity": "Moradabad",
+    "region": "36",
+    "population": "721210",
+    "latitude": "28.833333",
+    "longitude": "78.783333"
+  },
+  "muzaffarnagar": {
+    "city": "muzaffarnagar",
+    "accentcity": "Muzaffarnagar",
+    "region": "36",
+    "population": "349741",
+    "latitude": "29.466667",
+    "longitude": "77.683333"
+  },
+  "pilibhit": {
+    "city": "pilibhit",
+    "accentcity": "Pilibhit",
+    "region": "36",
+    "population": "131021",
+    "latitude": "28.633333",
+    "longitude": "79.8"
+  },
+  "prayagraj": {
+    "city": "prayagraj",
+    "latitude": "25.4358011",
+    "longitude": "81.84631100000001"
+  },
+  "rae bareli": {
+    "city": "rae bareli",
+    "accentcity": "Rae Bareli",
+    "region": "36",
+    "population": "186451",
+    "latitude": "26.216667",
+    "longitude": "81.233333"
+  },
+  "rampur": {
+    "city": "rampur",
+    "accentcity": "Rampur",
+    "region": "38",
+    "population": null,
+    "latitude": "23.283333",
+    "longitude": "85.433333"
+  },
+  "saharanpur": {
+    "city": "saharanpur",
+    "accentcity": "Saharanpur",
+    "region": "36",
+    "population": "484921",
+    "latitude": "29.966667",
+    "longitude": "77.55"
+  },
+  "sambhal": {
+    "city": "sambhal",
+    "accentcity": "Sambhal",
+    "region": "36",
+    "population": "196129",
+    "latitude": "28.583333",
+    "longitude": "78.55"
+  },
+  "sant kabir nagar": {
+    "city": "sant kabir nagar",
+    "latitude": "26.767176",
+    "longitude": "83.036138"
+  },
+  "shahjahanpur": {
+    "city": "shahjahanpur",
+    "accentcity": "Shahjahanpur",
+    "region": "36",
+    "population": "320466",
+    "latitude": "27.883333",
+    "longitude": "79.916667"
+  },
+  "shamli": {
+    "city": "shamli",
+    "accentcity": "Shamli",
+    "region": "36",
+    "population": "97976",
+    "latitude": "29.45",
+    "longitude": "77.316667"
+  },
+  "sitapur": {
+    "city": "sitapur",
+    "accentcity": "Sitapur",
+    "region": "36",
+    "population": "164451",
+    "latitude": "27.566667",
+    "longitude": "80.683333"
+  },
+  "sultanpur": {
+    "city": "sultanpur",
+    "accentcity": "Sultanpur",
+    "region": "39",
+    "population": "8519",
+    "latitude": "29.75",
+    "longitude": "78.116667"
+  },
+  "unnao": {
+    "city": "unnao",
+    "accentcity": "Unnao",
+    "region": "36",
+    "population": "161687",
+    "latitude": "26.533333",
+    "longitude": "80.5"
+  },
+  "varanasi": {
+    "city": "varanasi",
+    "accentcity": "Varanasi",
+    "region": "36",
+    "population": "1164520",
+    "latitude": "25.333333",
+    "longitude": "83"
+  },
+  "bahraich": {
+    "city": "bahraich",
+    "accentcity": "Bahraich",
+    "region": "36",
+    "population": "182236",
+    "latitude": "27.583333",
+    "longitude": "81.6"
+  },
+  "shrawasti": {
+    "city": "shrawasti",
+    "latitude": "27.503543",
+    "longitude": "82.036461"
+  },
+  "ayodhya": {
+    "city": "ayodhya",
+    "accentcity": "Ayodhya",
+    "region": "36",
+    "population": "53298",
+    "latitude": "26.8",
+    "longitude": "82.2"
+  },
+  "jalaun": {
+    "city": "jalaun",
+    "accentcity": "Jalaun",
+    "region": "36",
+    "population": "55304",
+    "latitude": "26.15",
+    "longitude": "79.35"
+  },
+  "gorakhpur": {
+    "city": "gorakhpur",
+    "accentcity": "Gorakhpur",
+    "region": "36",
+    "population": "674312",
+    "latitude": "26.755",
+    "longitude": "83.373889"
+  },
+  "jhansi": {
+    "city": "jhansi",
+    "accentcity": "Jhansi",
+    "region": "36",
+    "population": "412968",
+    "latitude": "25.433333",
+    "longitude": "78.583333"
+  },
+  "kanpur dehat": {
+    "city": "kanpur dehat",
+    "latitude": "26.526707",
+    "longitude": "79.829674"
+  },
+  "deoria": {
+    "city": "deoria",
+    "accentcity": "Deoria",
+    "region": "36",
+    "population": "113638",
+    "latitude": "26.504722",
+    "longitude": "83.787222"
+  },
+  "siddharthnagar": {
+    "city": "siddharthnagar",
+    "latitude": "27.271563",
+    "longitude": "82.820974"
+  },
+  "barabanki": {
+    "city": "barabanki",
+    "accentcity": "Barabanki",
+    "region": "37",
+    "population": null,
+    "latitude": "20.433333",
+    "longitude": "82.716667"
+  },
+  "lakhimpur kheri": {
+    "city": "lakhimpur kheri",
+    "latitude": "27.906465",
+    "longitude": "80.796249"
+  },
+  "mahoba": {
+    "city": "mahoba",
+    "accentcity": "Mahoba",
+    "region": "36",
+    "population": "89179",
+    "latitude": "25.283333",
+    "longitude": "79.866667"
+  },
+  "maharajganj": {
+    "city": "maharajganj",
+    "accentcity": "Maharajganj",
+    "region": "36",
+    "population": "30551",
+    "latitude": "27.133333",
+    "longitude": "83.566667"
+  },
+  "amethi": {
+    "city": "amethi",
+    "accentcity": "Amethi",
+    "region": "36",
+    "population": "12207",
+    "latitude": "28.016667",
+    "longitude": "81.05"
+  },
+  "kushinagar": {
+    "city": "kushinagar",
+    "latitude": "26.739879",
+    "longitude": "83.88697"
+  },
+  "chitrakoot": {
+    "city": "chitrakoot",
+    "latitude": "25.109369",
+    "longitude": "81.075466"
+  },
+  "fatehpur": {
+    "city": "fatehpur",
+    "accentcity": "Fatehpur",
+    "region": "39",
+    "population": null,
+    "latitude": "29.823611",
+    "longitude": "78.616389"
+  },
+  "farrukhabad": {
+    "city": "farrukhabad",
+    "accentcity": "Farrukhabad",
+    "region": "36",
+    "population": "241176",
+    "latitude": "27.4",
+    "longitude": "79.566667"
+  },
+  "lalitpur": {
+    "city": "lalitpur",
+    "accentcity": "Lalitpur",
+    "region": "36",
+    "population": "126487",
+    "latitude": "24.683333",
+    "longitude": "78.416667"
+  },
+  "ambedkar nagar": {
+    "city": "ambedkar nagar",
+    "latitude": "27.807609",
+    "longitude": "79.768024"
+  },
+  "ballia": {
+    "city": "ballia",
+    "accentcity": "Ballia",
+    "region": "36",
+    "population": null,
+    "latitude": "28.2",
+    "longitude": "79.366667"
+  },
+  "chandauli": {
+    "city": "chandauli",
+    "accentcity": "Chandauli",
+    "region": "36",
+    "population": "25038",
+    "latitude": "25.266667",
+    "longitude": "83.266667"
+  },
+  "almora": {
+    "city": "almora",
+    "accentcity": "Almora",
+    "region": "39",
+    "population": "32446",
+    "latitude": "29.616667",
+    "longitude": "79.666667"
+  },
+  "dehradun": {
+    "city": "dehradun",
+    "latitude": "30.3164945",
+    "longitude": "78.03219179999996"
+  },
+  "haridwar": {
+    "city": "haridwar",
+    "accentcity": "Haridwar",
+    "region": "39",
+    "population": "186099",
+    "latitude": "29.966667",
+    "longitude": "78.166667"
+  },
+  "nainital": {
+    "city": "nainital",
+    "latitude": "29.3803039",
+    "longitude": "79.4635658"
+  },
+  "pauri garhwal": {
+    "city": "pauri garhwal",
+    "latitude": "29.868768",
+    "longitude": "78.838264"
+  },
+  "udham singh nagar": {
+    "city": "udham singh nagar",
+    "latitude": "28.960965",
+    "longitude": "79.515377"
+  },
+  "uttarkashi": {
+    "city": "uttarkashi",
+    "accentcity": "Uttarkashi",
+    "region": "39",
+    "population": "17125",
+    "latitude": "30.733333",
+    "longitude": "78.45"
+  },
+  "bageshwar": {
+    "city": "bageshwar",
+    "accentcity": "Bageshwar",
+    "region": "39",
+    "population": "8708",
+    "latitude": "29.85",
+    "longitude": "79.766667"
+  },
+  "chamoli": {
+    "city": "chamoli",
+    "accentcity": "Chamoli",
+    "region": "39",
+    "population": null,
+    "latitude": "30.4",
+    "longitude": "79.35"
+  },
+  "champawat": {
+    "city": "champawat",
+    "accentcity": "Champawat",
+    "region": "39",
+    "population": "4669",
+    "latitude": "29.333333",
+    "longitude": "80.1"
+  },
+  "pithoragarh": {
+    "city": "pithoragarh",
+    "accentcity": "Pithoragarh",
+    "region": "39",
+    "population": "47576",
+    "latitude": "29.583333",
+    "longitude": "80.216667"
+  },
+  "rudraprayag": {
+    "city": "rudraprayag",
+    "accentcity": "Rudraprayag",
+    "region": "39",
+    "population": "2571",
+    "latitude": "30.283333",
+    "longitude": "78.983333"
+  },
+  "tehri garhwal": {
+    "city": "tehri garhwal",
+    "latitude": "30.382578",
+    "longitude": "78.473774"
+  },
+  "hooghly": {
+    "city": "hooghly",
+    "accentcity": "Hooghly",
+    "region": "28",
+    "population": null,
+    "latitude": "22.895556",
+    "longitude": "88.4025"
+  },
+  "howrah": {
+    "city": "howrah",
+    "accentcity": "Howrah",
+    "region": "28",
+    "population": null,
+    "latitude": "22.589167",
+    "longitude": "88.310278"
+  },
+  "kolkata": {
+    "city": "kolkata",
+    "accentcity": "Kolkata",
+    "region": "28",
+    "population": null,
+    "latitude": "22.569722",
+    "longitude": "88.369722"
+  },
+  "medinipur east": {
+    "city": "medinipur east",
+    "latitude": "22.120839",
+    "longitude": "87.301613"
+  },
+  "nadia": {
+    "city": "nadia",
+    "accentcity": "Nadia",
+    "region": "28",
+    "population": null,
+    "latitude": "23.416667",
+    "longitude": "88.366667"
+  },
+  "north 24 parganas": {
+    "city": "north 24 parganas",
+    "latitude": "22.583327",
+    "longitude": "88.43151"
+  },
+  "south 24 parganas": {
+    "city": "south 24 parganas",
+    "latitude": "22.135238",
+    "longitude": "88.401604"
+  },
+  "darjeeling": {
+    "city": "darjeeling",
+    "accentcity": "Darjeeling",
+    "region": "28",
+    "population": null,
+    "latitude": "27.033333",
+    "longitude": "88.266667"
+  },
+  "jalpaiguri": {
+    "city": "jalpaiguri",
+    "accentcity": "Jalpaiguri",
+    "region": "28",
+    "population": "107843",
+    "latitude": "26.516667",
+    "longitude": "88.733333"
+  },
+  "murshidabad": {
+    "city": "murshidabad",
+    "accentcity": "Murshidabad",
+    "region": "28",
+    "population": "39561",
+    "latitude": "24.183333",
+    "longitude": "88.266667"
+  },
+  "paschim bardhaman": {
+    "city": "paschim bardhaman",
+    "latitude": "23.683709",
+    "longitude": "86.980925"
+  },
+  "purba bardhaman": {
+    "city": "purba bardhaman",
+    "latitude": "23.240926",
+    "longitude": "87.851215"
+  },
+  "purba medinipur": {
+    "city": "purba medinipur",
+    "latitude": "21.937288",
+    "longitude": "87.776333"
+  },
+  "birbhum": {
+    "city": "birbhum",
+    "latitude": "24.3575023",
+    "longitude": "87.84269670000003"
+  },
+  "malda": {
+    "city": "malda",
+    "accentcity": "Malda",
+    "region": "28",
+    "population": null,
+    "latitude": "25.033333",
+    "longitude": "88.15"
+  },
+  "paschim medinipur": {
+    "city": "paschim medinipur",
+    "latitude": "22.4080376",
+    "longitude": "87.3810727"
+  },
+  "jhargram": {
+    "city": "jhargram",
+    "accentcity": "Jhargram",
+    "region": "28",
+    "population": "57802",
+    "latitude": "22.45",
+    "longitude": "86.983333"
+  },
+  "uttar dinajpur": {
+    "city": "uttar dinajpur",
+    "latitude": "25.981039",
+    "longitude": "88.050979"
+  },
+  "bankura": {
+    "city": "bankura",
+    "accentcity": "Bankura",
+    "region": "28",
+    "population": "133979",
+    "latitude": "23.25",
+    "longitude": "87.066667"
+  },
+  "cooch behar": {
+    "city": "cooch behar",
+    "accentcity": "Cooch Behar",
+    "region": "28",
+    "population": null,
+    "latitude": "26.316667",
+    "longitude": "89.433333"
+  },
+  "dakshin dinajpur": {
+    "city": "dakshin dinajpur",
+    "latitude": "25.371531",
+    "longitude": "88.556531"
+  },
+  "purulia": {
+    "city": "purulia",
+    "accentcity": "Purulia",
+    "region": "28",
+    "population": null,
+    "latitude": "23.333333",
+    "longitude": "86.366667"
+  },
+  "daman": {
+    "city": "daman",
+    "accentcity": "Daman",
+    "region": "32",
+    "population": "39741",
+    "latitude": "20.416667",
+    "longitude": "72.85"
+  },
+  "diu": {
+    "city": "diu",
+    "accentcity": "Diu",
+    "region": "32",
+    "population": "23790",
+    "latitude": "20.7",
+    "longitude": "70.983333"
+  },
+  "dimapur": {
+    "city": "dimapur",
+    "accentcity": "Dimapur",
+    "region": "03",
+    "population": "135866",
+    "latitude": "25.9",
+    "longitude": "93.733333"
+  },
+  "kohima": {
+    "city": "kohima",
+    "accentcity": "Kohima",
+    "region": "20",
+    "population": "92117",
+    "latitude": "25.666667",
+    "longitude": "94.116667"
+  },
+  "mokokchung": {
+    "city": "mokokchung",
+    "accentcity": "Mokokchung",
+    "region": "20",
+    "population": "34023",
+    "latitude": "26.333333",
+    "longitude": "94.533333"
+  },
+  "mon": {
+    "city": "mon",
+    "accentcity": "Mon",
+    "region": "20",
+    "population": "18743",
+    "latitude": "26.75",
+    "longitude": "95.1"
+  },
+  "phek": {
+    "city": "phek",
+    "accentcity": "Phek",
+    "region": "17",
+    "population": "15119",
+    "latitude": "25.666667",
+    "longitude": "94.5"
+  },
+  "tuensang": {
+    "city": "tuensang",
+    "accentcity": "Tuensang",
+    "region": "20",
+    "population": "33750",
+    "latitude": "26.283333",
+    "longitude": "94.833333"
+  },
+  "wokha": {
+    "city": "wokha",
+    "accentcity": "Wokha",
+    "region": "20",
+    "population": "54012",
+    "latitude": "26.1",
+    "longitude": "94.266667"
+  },
+  "zunheboto": {
+    "city": "zunheboto",
+    "accentcity": "Zunheboto",
+    "region": "20",
+    "population": "29500",
+    "latitude": "25.966667",
+    "longitude": "94.516667"
+  }
+}
