@@ -1,4 +1,288 @@
 {
+  "andhra pradesh": {
+      "city": "andhra pradesh",
+      "latitude": "15.9128998",
+      "longitude": "79.73998749999998"
+  },
+  "assam": {
+      "city": "assam",
+      "latitude": "26.2006",
+      "longitude": "92.9376"
+  },
+  "uttar pradesh": {
+      "city": "uttar pradesh",
+      "latitude": "27.5705886",
+      "longitude": "80.0981869"
+  },
+  "boudh": {
+      "city": "boudh",
+      "latitude": "20.841821",
+      "longitude": "84.320018"
+  },
+  "karnataka": {
+      "city": "Karnataka",
+      "latitude": "15.3172775",
+      "longitude": "75.71388839999997"
+  },
+  "telangana": {
+      "city": "Telangana",
+      "latitude": "18.112437",
+      "longitude": "79.0193"
+  },
+  "gujarat": {
+      "city": "Gujarat",
+      "latitude": "22.258652",
+      "longitude": "71.1923805"
+  },
+  "maharashtra": {
+      "city": "Maharashtra",
+      "latitude": "19.7514798",
+      "longitude": "75.7138884"
+  },
+  "tamil nadu": {
+      "city": "tamil nadu",
+      "latitude": "11.1271225",
+      "longitude": "78.65689420000001"
+  },
+  "delhi": {
+      "city": "delhi",
+      "accentcity": "Delhi",
+      "region": "07",
+      "population": "10928270",
+      "latitude": "28.666667",
+      "longitude": "77.216667"
+  },
+   "namsai": {
+    "city": "namsai",
+    "latitude": "27.6692",
+    "longitude": "95.8644"
+  },
+  "papum pare": {
+    "city": "papum pare",
+    "latitude": "27.1719",
+    "longitude": "93.7029"
+  },
+  "baksa": {
+    "city": "baksa",
+    "latitude": "26.6935",
+    "longitude": "91.5984"
+  },
+  "karbi anglong": {
+    "city": "karbi anglong",
+    "latitude": "25.8457",
+    "longitude": "93.4378"
+  },
+  "west karbi anglong": {
+    "city": "west karbi anglong",
+    "latitude": "25.8486",
+    "longitude": "92.5764"
+  },
+  "kabeerdham": {
+    "city": "kabeerdham",
+    "latitude": "22.0106",
+    "longitude": "81.2359"
+  },
+  "uttar bastar kanker": {
+    "city": "uttar bastar kanker",
+    "latitude": "20.2642",
+    "longitude": "81.4980"
+  },
+  "chhota udaipur": {
+    "city": "chhota udaipur",
+    "latitude": "22.3085",
+    "longitude": "74.0120"
+  },
+  "panchkula": {
+    "city": "panchkula",
+    "latitude": "30.6942",
+    "longitude": "76.8606"
+  },
+  "rajouri": {
+    "city": "rajouri",
+    "latitude": "33.3716",
+    "longitude": "74.3152"
+  },
+  "reasi": {
+    "city": "reasi",
+    "latitude": "33.0804",
+    "longitude": "74.8364"
+  },
+  "bandipora": {
+    "city": "bandipora",
+    "latitude": "34.5052",
+    "longitude": "74.6869"
+  },
+  "palamu": {
+    "city": "palamu",
+    "latitude": "24.1286",
+    "longitude": "84.1857"
+  },
+  "pakur": {
+    "city": "pakur",
+    "latitude": "24.6337",
+    "longitude": "87.8501"
+  },
+  "saraikela-kharsawan": {
+    "city": "saraikela-kharsawan",
+    "latitude": "22.8561",
+    "longitude": "86.0122"
+  },
+
+  "kodagu": {
+    "city": "kodagu",
+    "latitude": "12.3375",
+    "longitude": "75.8069"
+  },
+  "chamarajanagara": {
+    "city": "chamarajanagara",
+    "latitude": "11.9261",
+    "longitude": "76.9437"
+  },
+  "ramanagara": {
+    "city": "ramanagara",
+    "latitude": "12.7209",
+    "longitude": "77.2799"
+  },
+  "imphal east": {
+    "city": "imphal east",
+    "latitude": "24.7807",
+    "longitude": "93.9674"
+  },
+  "imphal west": {
+    "city": "imphal west",
+    "latitude": "24.7828",
+    "longitude": "93.8859"
+  },
+  "kamjong": {
+    "city": "kamjong",
+    "latitude": "24.8570",
+    "longitude": "94.5135"
+  },
+  "noney": {
+    "city": "noney",
+    "latitude": "24.8547",
+    "longitude": "93.6167"
+  },
+  "pherzawl": {
+    "city": "pherzawl",
+    "latitude": "24.2637",
+    "longitude": "93.1893"
+  },
+  "senapati": {
+    "city": "senapati",
+    "latitude": "25.3203",
+    "longitude": "94.1514"
+  },
+  "tengnoupal": {
+    "city": "tengnoupal",
+    "latitude": "24.3838",
+    "longitude": "94.1482"
+  },
+  "east khasi hills": {
+    "city": "east khasi hills",
+    "latitude": "25.3682",
+    "longitude": "91.7539"
+  },
+  "kolasib": {
+    "city": "kolasib",
+    "latitude": "24.2246",
+    "longitude": "92.6760"
+  },
+  "s.a.s. nagar": {
+    "city": "s.a.s. nagar",
+    "latitude": "30.7046",
+    "longitude": "76.7179"
+  },
+  "shahid bhagat singh nagar": {
+    "city": "shahid bhagat singh nagar",
+    "latitude": "31.1256",
+    "longitude": "76.1186"
+  },
+  "sri muktsar sahib": {
+    "city": "sri muktsar sahib",
+    "latitude": "30.4762",
+    "longitude": "74.5122"
+  },
+  "bathinda": {
+    "city": "bathinda",
+    "latitude": "30.2110",
+    "longitude": "74.9455"
+  },
+  "tirupathur": {
+    "city": "tirupathur",
+    "latitude": "12.4950",
+    "longitude": "78.5678"
+  },
+  "jayashankar": {
+    "city": "jayashankar",
+    "latitude": "18.4293",
+    "longitude": "79.8635"
+  },
+  "kamareddy": {
+    "city": "kamareddy",
+    "latitude": "18.3205",
+    "longitude": "78.3370"
+  },
+  "mahabubabad": {
+    "city": "mahabubabad",
+    "latitude": "17.6026",
+    "longitude": "80.0036"
+  },
+  "nagarkurnool": {
+    "city": "nagarkurnool",
+    "latitude": "16.4939",
+    "longitude": "78.3102"
+  },
+  "rajanna sircilla": {
+    "city": "rajanna sircilla",
+    "latitude": "18.3889",
+    "longitude": "78.8092"
+  },
+  "sangareddy": {
+    "city": "sangareddy",
+    "latitude": "17.6140",
+    "longitude": "78.0816"
+  },
+  "warangal urban": {
+    "city": "warangal urban",
+    "latitude": "17.9744",
+    "longitude": "79.9193"
+  },
+  "komaram bheem": {
+    "city": "komaram bheem",
+    "latitude": "19.3619",
+    "longitude": "79.2930"
+  },
+  "yadadri bhuvanagiri": {
+    "city": "yadadri bhuvanagiri",
+    "latitude": "17.518345",
+    "longitude": "78.885956"
+  },
+  "sonbhadra": {
+    "city": "sonbhadra",
+    "latitude": "24.6850",
+    "longitude": "83.0684"
+  },
+  "kalimpong": {
+    "city": "kalimpong",
+    "latitude": "27.0594",
+    "longitude": "88.4695"
+  },
+  "alipurduar": {
+    "city": "alipurduar",
+    "latitude": "26.4922",
+    "longitude": "89.5320"
+  },
+  "dadra and nagar haveli": {
+    "city": "dadra and nagar haveli",
+    "latitude": "20.1809",
+    "longitude": "73.0169"
+  },
+  "peren": {
+    "city": "peren",
+    "latitude": "25.5125",
+    "longitude": "93.7391"
+  },
   "north and middle andaman": {
     "city": "north and middle andaman",
     "latitude": "12.651883",
