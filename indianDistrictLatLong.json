@@ -786,8 +786,8 @@
     "accentcity": "Aurangabad",
     "region": "36",
     "population": null,
-    "latitude": "27.783333",
-    "longitude": "80.35"
+    "latitude": "19.8762",
+    "longitude": "75.3433"
   },
   "madhepura": {
     "city": "madhepura",
@@ -1366,8 +1366,8 @@
     "accentcity": "Patan",
     "region": "38",
     "population": null,
-    "latitude": "24.216667",
-    "longitude": "84.183333"
+    "latitude": "23.8500",
+    "longitude": "72.1210"
   },
   "porbandar": {
     "city": "porbandar",
@@ -1817,8 +1817,8 @@
     "accentcity": "Srinagar",
     "region": "39",
     "population": "20219",
-    "latitude": "30.216667",
-    "longitude": "78.783333"
+    "latitude": "34.0837",
+    "longitude": "74.7973"
   },
   "udhampur": {
     "city": "udhampur",
@@ -2562,8 +2562,8 @@
     "accentcity": "Shivpuri",
     "region": "39",
     "population": null,
-    "latitude": "30.15",
-    "longitude": "78.383333"
+    "latitude": "25.4320",
+    "longitude": "77.6644"
   },
   "tikamgarh": {
     "city": "tikamgarh",
@@ -2610,8 +2610,8 @@
     "accentcity": "Harda",
     "region": "35",
     "population": "67394",
-    "latitude": "22.333333",
-    "longitude": "77.1"
+    "latitude": "22.343333",
+    "longitude": "77.0890"
   },
   "ashoknagar": {
     "city": "ashoknagar",
@@ -2791,8 +2791,8 @@
     "accentcity": "Akola",
     "region": "24",
     "population": null,
-    "latitude": "24.766667",
-    "longitude": "74.2"
+    "latitude": "20.7002",
+    "longitude": "77.0082"
   },
   "amravati": {
     "city": "amravati",
@@ -2824,7 +2824,7 @@
     "region": "21",
     "population": null,
     "latitude": "19.6",
-    "longitude": "83.883333"
+    "longitude": "79.2961"
   },
   "dhule": {
     "city": "dhule",
@@ -2848,7 +2848,7 @@
     "region": "16",
     "population": "27796",
     "latitude": "21.048611",
-    "longitude": "76.534444"
+    "longitude": "75.5626"
   },
   "jalna": {
     "city": "jalna",
@@ -2887,8 +2887,8 @@
     "accentcity": "Nagpur",
     "region": "37",
     "population": null,
-    "latitude": "23.3",
-    "longitude": "82.3"
+    "latitude": "21.1458",
+    "longitude": "79.0882"
   },
   "nandurbar": {
     "city": "nandurbar",
