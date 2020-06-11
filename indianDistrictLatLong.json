@@ -298,8 +298,8 @@
     "accentcity": "Anantapur",
     "region": "28",
     "population": null,
-    "latitude": "22.105",
-    "longitude": "88.114167"
+    "latitude": "14.6819",
+    "longitude": "77.6006"
   },
   "chittoor": {
     "city": "chittoor",
@@ -734,8 +734,8 @@
     "accentcity": "Patna",
     "region": "37",
     "population": null,
-    "latitude": "23.3",
-    "longitude": "82.666667"
+    "latitude": "25.5941",
+    "longitude": "85.1376"
   },
   "rohtas": {
     "city": "rohtas",
@@ -1205,8 +1205,8 @@
     "accentcity": "Shahdara",
     "region": "35",
     "population": null,
-    "latitude": "24.616667",
-    "longitude": "77.6"
+    "latitude": "28.6894",
+    "longitude": "77.2919"
   },
   "south east delhi": {
     "city": "south east delhi",
@@ -1353,8 +1353,8 @@
     "accentcity": "Navsari",
     "region": "09",
     "population": "136204",
-    "latitude": "20.85",
-    "longitude": "72.916667"
+    "latitude": "20.9467",
+    "longitude": "72.9520"
   },
   "panch mahals": {
     "city": "panch mahals",
@@ -1390,8 +1390,8 @@
     "accentcity": "Surat",
     "region": "09",
     "population": "2894675",
-    "latitude": "20.966667",
-    "longitude": "72.9"
+    "latitude": "21.1702",
+    "longitude": "72.8311"
   },
   "vadodara": {
     "city": "vadodara",
@@ -1864,24 +1864,24 @@
     "accentcity": "Mirpur",
     "region": "36",
     "population": null,
-    "latitude": "30.073333",
-    "longitude": "77.780833"
+    "latitude": "33.1480",
+    "longitude": "73.7537"
   },
   "muzaffarabad": {
     "city": "muzaffarabad",
     "accentcity": "Muzaffarabad",
     "region": "36",
     "population": null,
-    "latitude": "30.116667",
-    "longitude": "77.716667"
+    "latitude": "34.3551",
+    "longitude": "73.4769"
   },
   "punch": {
     "city": "punch",
     "accentcity": "Punch",
     "region": "36",
     "population": null,
-    "latitude": "25.816667",
-    "longitude": "79.05"
+    "latitude": "33.7670",
+    "longitude": "74.0924"
   },
   "bokaro": {
     "city": "bokaro",
@@ -3069,8 +3069,8 @@
     "accentcity": "Chandel",
     "region": "33",
     "population": null,
-    "latitude": "15.733333",
-    "longitude": "73.883333"
+    "latitude": "24.3262",
+    "longitude": "94.0006"
   },
   "churachandpur": {
     "city": "churachandpur",
@@ -3239,8 +3239,8 @@
     "accentcity": "Puri",
     "region": "37",
     "population": null,
-    "latitude": "20.430833",
-    "longitude": "81.255"
+    "latitude": "19.8135",
+    "longitude": "85.8312"
   },
   "sundargarh": {
     "city": "sundargarh",
@@ -3392,8 +3392,8 @@
     "accentcity": "Sambalpur",
     "region": "37",
     "population": null,
-    "latitude": "20.303611",
-    "longitude": "81.038056"
+    "latitude": "21.4669",
+    "longitude": "83.9812"
   },
   "subarnapur": {
     "city": "subarnapur",
@@ -3749,8 +3749,8 @@
     "accentcity": "Pali",
     "region": "39",
     "population": null,
-    "latitude": "29.85",
-    "longitude": "78.543889"
+    "latitude": "25.7781",
+    "longitude": "73.3311"
   },
   "pratapgarh": {
     "city": "pratapgarh",
@@ -4004,8 +4004,8 @@
     "accentcity": "Salem",
     "region": "33",
     "population": null,
-    "latitude": "15.7",
-    "longitude": "73.916667"
+    "latitude": "11.6643",
+    "longitude": "78.1460"
   },
   "sivaganga": {
     "city": "sivaganga",
@@ -4843,8 +4843,8 @@
     "accentcity": "Fatehpur",
     "region": "39",
     "population": null,
-    "latitude": "29.823611",
-    "longitude": "78.616389"
+    "latitude": "25.9210",
+    "longitude": "80.7996"
   },
   "farrukhabad": {
     "city": "farrukhabad",
