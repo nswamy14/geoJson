@@ -507,8 +507,8 @@
     "accentcity": "Lakhimpur",
     "region": "36",
     "population": "140237",
-    "latitude": "27.95",
-    "longitude": "80.766667"
+    "latitude": "27.2064",
+    "longitude": "94.1514"
   },
   "morigaon": {
     "city": "morigaon",
@@ -560,8 +560,8 @@
     "accentcity": "Biswanath",
     "region": "28",
     "population": null,
-    "latitude": "22.036667",
-    "longitude": "88.048611"
+    "latitude": "26.7267",
+    "longitude": "93.1479"
   },
   "charaideo": {
     "city": "charaideo",
@@ -623,8 +623,8 @@
     "accentcity": "Nagaon",
     "region": "16",
     "population": null,
-    "latitude": "17.466667",
-    "longitude": "73.616667"
+    "latitude": "26.3480",
+    "longitude": "92.6838"
   },
   "sivasagar": {
     "city": "sivasagar",
@@ -673,8 +673,8 @@
     "accentcity": "Bhojpur",
     "region": "39",
     "population": null,
-    "latitude": "28.933333",
-    "longitude": "79.816667"
+    "latitude": "25.4662",
+    "longitude": "84.5222"
   },
   "buxar": {
     "city": "buxar",
@@ -697,8 +697,8 @@
     "accentcity": "Gopalganj",
     "region": "35",
     "population": null,
-    "latitude": "21.966667",
-    "longitude": "79.516667"
+    "latitude": "26.4832",
+    "longitude": "84.4366"
   },
   "lakhisarai": {
     "city": "lakhisarai",
@@ -726,8 +726,8 @@
     "accentcity": "Nawada",
     "region": "36",
     "population": null,
-    "latitude": "27.016667",
-    "longitude": "80.066667"
+    "latitude": "24.8867",
+    "longitude": "85.5435"
   },
   "patna": {
     "city": "patna",
@@ -844,8 +844,8 @@
     "accentcity": "Sheikhpura",
     "region": "12",
     "population": null,
-    "latitude": "34.330556",
-    "longitude": "74.230556"
+    "latitude": "25.0848",
+    "longitude": "85.8896"
   },
   "sitamarhi": {
     "city": "sitamarhi",
@@ -865,8 +865,8 @@
     "accentcity": "Kaimur",
     "region": "35",
     "population": "20156",
-    "latitude": "23.383333",
-    "longitude": "79.75"
+    "latitude": "25.042623",
+    "longitude": "83.605573"
   },
   "katihar": {
     "city": "katihar",
@@ -977,8 +977,8 @@
     "accentcity": "Raipur",
     "region": "39",
     "population": "27705",
-    "latitude": "30.316667",
-    "longitude": "78.1"
+    "latitude": "21.2514",
+    "longitude": "81.6296"
   },
   "rajnandgaon": {
     "city": "rajnandgaon",
@@ -1014,8 +1014,8 @@
     "accentcity": "Balrampur",
     "region": "36",
     "population": "77404",
-    "latitude": "27.433333",
-    "longitude": "82.183333"
+    "latitude": "23.6112",
+    "longitude": "83.6109"
   },
   "bametara": {
     "city": "bametara",
@@ -1295,8 +1295,8 @@
     "accentcity": "Dahod",
     "region": "35",
     "population": null,
-    "latitude": "23.033333",
-    "longitude": "77.483333"
+    "latitude": "22.8345",
+    "longitude": "74.2606"
   },
   "gandhinagar": {
     "city": "gandhinagar",
@@ -1382,8 +1382,8 @@
     "accentcity": "Rajkot",
     "region": "24",
     "population": null,
-    "latitude": "25.731111",
-    "longitude": "75.5925"
+    "latitude": "22.3039",
+    "longitude": "70.8022"
   },
   "surat": {
     "city": "surat",
@@ -1414,8 +1414,8 @@
     "accentcity": "Dang",
     "region": "39",
     "population": null,
-    "latitude": "30.15",
-    "longitude": "78.983333"
+    "latitude": "27.9904",
+    "longitude": "82.3018"
   },
   "surendranagar": {
     "city": "surendranagar",
@@ -1482,8 +1482,8 @@
     "accentcity": "Ambala",
     "region": "11",
     "population": null,
-    "latitude": "30.898889",
-    "longitude": "76.964722"
+    "latitude": "30.3752",
+    "longitude": "76.7821"
   },
   "bhiwani": {
     "city": "bhiwani",
@@ -1514,8 +1514,8 @@
     "accentcity": "Fatehabad",
     "region": "36",
     "population": "21959",
-    "latitude": "27.016667",
-    "longitude": "78.316667"
+    "latitude": "29.5132",
+    "longitude": "75.4510"
   },
   "gurugram": {
     "city": "gurugram",
@@ -1572,8 +1572,8 @@
     "accentcity": "Palwal",
     "region": "12",
     "population": null,
-    "latitude": "33.030556",
-    "longitude": "74.486111"
+    "latitude": "28.1473",
+    "longitude": "77.3260"
   },
   "panipat": {
     "city": "panipat",
@@ -1596,8 +1596,8 @@
     "accentcity": "Sirsa",
     "region": "36",
     "population": "12609",
-    "latitude": "25.283333",
-    "longitude": "82.083333"
+    "latitude": "29.5321",
+    "longitude": "75.0318"
   },
   "sonipat": {
     "city": "sonipat",
@@ -1952,8 +1952,8 @@
     "accentcity": "Garhwa",
     "region": "36",
     "population": null,
-    "latitude": "24.733333",
-    "longitude": "83.216667"
+    "latitude": "24.1549",
+    "longitude": "83.7996"
   },
   "jamtara": {
     "city": "jamtara",
@@ -2034,8 +2034,8 @@
     "accentcity": "Ramgarh",
     "region": "39",
     "population": null,
-    "latitude": "29.45",
-    "longitude": "79.55"
+    "latitude": "23.6524",
+    "longitude": "85.5612"
   },
   "sahibganj": {
     "city": "sahibganj",
@@ -2514,8 +2514,8 @@
     "accentcity": "Rajgarh",
     "region": "36",
     "population": null,
-    "latitude": "24.866667",
-    "longitude": "82.85"
+    "latitude": "23.8509",
+    "longitude": "76.7337"
   },
   "ratlam": {
     "city": "ratlam",
@@ -2530,8 +2530,8 @@
     "accentcity": "Sagar",
     "region": "37",
     "population": null,
-    "latitude": "22.066667",
-    "longitude": "82"
+    "latitude": "23.8388",
+    "longitude": "78.7378"
   },
   "satna": {
     "city": "satna",
@@ -2743,8 +2743,8 @@
     "accentcity": "Chhatarpur",
     "region": "38",
     "population": null,
-    "latitude": "24.383333",
-    "longitude": "84.183333"
+    "latitude": "24.9168",
+    "longitude": "79.5910"
   },
   "damoh": {
     "city": "damoh",
@@ -2839,8 +2839,8 @@
     "accentcity": "Hingoli",
     "region": "24",
     "population": null,
-    "latitude": "26.716667",
-    "longitude": "73.483333"
+    "latitude": "19.7174",
+    "longitude": "77.1494"
   },
   "jalgaon": {
     "city": "jalgaon",
@@ -2940,8 +2940,8 @@
     "accentcity": "Ratnagiri",
     "region": "21",
     "population": null,
-    "latitude": "20.633333",
-    "longitude": "86.333333"
+    "latitude": "16.9902",
+    "longitude": "73.3120"
   },
   "sangli": {
     "city": "sangli",
@@ -3009,8 +3009,8 @@
     "accentcity": "Bhandara",
     "region": "37",
     "population": null,
-    "latitude": "21.4",
-    "longitude": "82.1"
+    "latitude": "21.1777",
+    "longitude": "79.6570"
   },
   "ahmednagar": {
     "city": "ahmednagar",
@@ -3292,8 +3292,8 @@
     "accentcity": "Deogarh",
     "region": "38",
     "population": null,
-    "latitude": "24.483333",
-    "longitude": "86.7"
+    "latitude": "21.5383",
+    "longitude": "84.7289"
   },
   "jajpur": {
     "city": "jajpur",
@@ -3353,8 +3353,8 @@
     "accentcity": "Bargarh",
     "region": "37",
     "population": null,
-    "latitude": "23.633333",
-    "longitude": "83.783333"
+    "latitude": "21.3470",
+    "longitude": "83.6320"
   },
   "gajapati": {
     "city": "gajapati",
@@ -3493,8 +3493,8 @@
     "accentcity": "Jalandhar",
     "region": "35",
     "population": null,
-    "latitude": "23.9",
-    "longitude": "78.433333"
+    "latitude": "31.3260",
+    "longitude": "75.5762"
   },
   "kapurthala": {
     "city": "kapurthala",
@@ -3549,8 +3549,8 @@
     "accentcity": "Rupnagar",
     "region": "24",
     "population": null,
-    "latitude": "25.359722",
-    "longitude": "75.551389"
+    "latitude": "30.9661",
+    "longitude": "76.5231"
   },
   "sangrur": {
     "city": "sangrur",
@@ -3621,8 +3621,8 @@
     "accentcity": "Bharatpur",
     "region": "35",
     "population": null,
-    "latitude": "23.733333",
-    "longitude": "81.766667"
+    "latitude": "27.2152",
+    "longitude": "77.5030"
   },
   "bhilwara": {
     "city": "bhilwara",
@@ -3685,8 +3685,8 @@
     "accentcity": "Jaipur",
     "region": "34",
     "population": null,
-    "latitude": "24.583333",
-    "longitude": "86.85"
+    "latitude": "26.9124",
+    "longitude": "75.7873"
   },
   "jaisalmer": {
     "city": "jaisalmer",
@@ -3781,16 +3781,16 @@
     "accentcity": "Tonk",
     "region": "35",
     "population": null,
-    "latitude": "23.1",
-    "longitude": "76.216667"
+    "latitude": "26.1659",
+    "longitude": "75.7963"
   },
   "udaipur": {
     "city": "udaipur",
     "accentcity": "Udaipur",
     "region": "26",
     "population": "23293",
-    "latitude": "23.533333",
-    "longitude": "91.483333"
+    "latitude": "24.5854",
+    "longitude": "73.7125"
   },
   "chittaurgarh": {
     "city": "chittaurgarh",
@@ -4201,16 +4201,16 @@
     "accentcity": "Nirmal",
     "region": "16",
     "population": null,
-    "latitude": "19.4",
-    "longitude": "72.766667"
+    "latitude": "19.0964",
+    "longitude": "78.3430"
   },
   "nizamabad": {
     "city": "nizamabad",
     "accentcity": "Nizamabad",
     "region": "36",
     "population": "13897",
-    "latitude": "26.050556",
-    "longitude": "83.058889"
+    "latitude": "18.6725",
+    "longitude": "78.0941"
   },
   "peddapalli": {
     "city": "peddapalli",
@@ -4656,8 +4656,8 @@
     "accentcity": "Rampur",
     "region": "38",
     "population": null,
-    "latitude": "23.283333",
-    "longitude": "85.433333"
+    "latitude": "28.7983",
+    "longitude": "79.0220"
   },
   "saharanpur": {
     "city": "saharanpur",
@@ -4796,8 +4796,8 @@
     "accentcity": "Barabanki",
     "region": "37",
     "population": null,
-    "latitude": "20.433333",
-    "longitude": "82.716667"
+    "latitude": "26.9268",
+    "longitude": "81.1834"
   },
   "lakhimpur kheri": {
     "city": "lakhimpur kheri",
