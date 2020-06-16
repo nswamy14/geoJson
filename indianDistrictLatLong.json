@@ -14,6 +14,136 @@
       "latitude": "27.5705886",
       "longitude": "80.0981869"
   },
+  "andaman and nicobar islands": {
+      "city": "andaman and nicobar islands",
+      "latitude": "11.7401",
+      "longitude": "92.6586"
+  },
+  "jharkhand": {
+     "city": "jharkhand",
+      "latitude": "23.6102",
+      "longitude": "85.2799"
+  },
+  "arunachal pradesh": {
+     "city": "arunachal pradesh",
+      "latitude": "28.2180",
+      "longitude": "94.7278"
+  },
+  "bihar": {
+     "city": "bihar",
+      "latitude": "25.0961",
+      "longitude": "85.3131"
+  },
+  "chhattisgarh": {
+     "city": "chhattisgarh",
+      "latitude": "21.2787",
+      "longitude": "81.8661"
+  },
+  "haryana": {
+     "city": "haryana",
+      "latitude": "29.0588",
+      "longitude": "76.0856"
+  },
+  "himachal pradesh": {
+     "city": "himachal pradesh",
+      "latitude": "31.1048",
+      "longitude": "77.1734"
+  },
+  "jammu and kashmir": {
+     "city": "jammu and kashmir",
+      "latitude": "33.7782",
+      "longitude": "76.5762"
+  },
+  "kerala": {
+     "city": "kerala",
+      "latitude": "10.8505",
+      "longitude": "76.2711"
+  },
+  "ladakh": {
+     "city": "ladakh",
+      "latitude": "34.2996",
+      "longitude": "78.2932"
+  },
+  "madhya pradesh": {
+     "city": "madhya pradesh",
+      "latitude": "22.9734",
+      "longitude": "78.6569"
+  },
+  "manipur": {
+     "city": "manipur",
+      "latitude": "24.6637",
+      "longitude": "93.9063"
+  },
+  "meghalaya": {
+     "city": "meghalaya",
+      "latitude": "25.4670",
+      "longitude": "91.3662"
+  },
+  "mizoram": {
+     "city": "mizoram",
+      "latitude": "23.1645",
+      "longitude": "92.9376"
+  },
+  "odisha": {
+     "city": "odisha",
+      "latitude": "20.9517",
+      "longitude": "85.0985"
+  },
+  "puducherry": {
+     "city": "puducherry",
+      "latitude": "11.9416",
+      "longitude": "79.8083"
+  },
+  "punjab": {
+     "city": "punjab",
+      "latitude": "31.1471",
+      "longitude": "75.3412"
+  },
+  "rajasthan": {
+     "city": "rajasthan",
+      "latitude": "27.0238",
+      "longitude": "74.2179"
+  },
+  "tripura": {
+     "city": "tripura",
+      "latitude": "23.9408",
+      "longitude": "91.9882"
+  },
+  "uttarakhand": {
+     "city": "uttarakhand",
+      "latitude": "30.0668",
+      "longitude": "79.0193"
+  },
+   "west bengal": {
+     "city": "west bengal",
+      "latitude": "22.9868",
+      "longitude": "87.8550"
+  },
+   "Dadra and nagar haveli and daman and diu": {
+     "city": "Dadra and nagar haveli and daman and diu",
+      "latitude": "20.4283",
+      "longitude": "72.8397"
+  },
+   "lakshadweep": {
+     "city": "lakshadweep",
+      "latitude": "13.7000",
+      "longitude": "72.1833"
+  },
+   "nagaland": {
+     "city": "nagaland",
+      "latitude": "26.1584",
+      "longitude": "94.5624"
+  },
+   "sikkim": {
+     "city": "sikkim",
+      "latitude": "27.5330",
+      "longitude": "88.5122"
+  },
+   "jharkhand": {
+     "city": "jharkhand",
+      "latitude": "23.6102",
+      "longitude": "85.2799"
+  },
   "boudh": {
       "city": "boudh",
       "latitude": "20.841821",
@@ -1215,6 +1345,14 @@
     "population": "10928270",
     "latitude": "28.563029",
     "longitude": "77.261088"
+  },
+  "goa": {
+    "city": "north goa",
+    "accentcity": "Goa",
+    "region": "33",
+    "population": null,
+    "latitude": "15.4",
+    "longitude": "73.8"
   },
   "north goa": {
     "city": "north goa",
