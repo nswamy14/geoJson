@@ -14,6 +14,11 @@
         "latitude": "19.4969",
         "longitude": "80.2767"
     },
+    "singrauli": {
+        "city": "singrauli",
+        "latitude": "24.1443",
+        "longitude": "82.3886"
+    },
     "boudh": {
         "city": "boudh",
         "latitude": "20.841821",
@@ -1800,6 +1805,11 @@
     "city": "banaskantha",
     "latitude": "24.347636",
     "longitude": "72.32832"
+  },
+  "kinnaur": {
+    "city": "kinnaur",
+    "latitude": "31.6510",
+    "longitude": "78.4752"
   },
   "kutch": {
     "city": "kutch",
