@@ -146,15 +146,15 @@
         "latitude": "22.589167",
         "longitude": "88.310278"
     },
-    "boudh": {
-        "city": "boudh",
-        "latitude": "20.841821",
-        "longitude": "84.320018"
+    "rangareddy": {
+        "city": "rangareddy",
+        "latitude": "17.3891",
+        "longitude": "77.8367"
     },
-    "boudh": {
-        "city": "boudh",
-        "latitude": "20.841821",
-        "longitude": "84.320018"
+    "narmada": {
+        "city": "narmada",
+        "latitude": "21.8757",
+        "longitude": "73.5594"
     },
     "mysore": {
         "city": "mysore",
@@ -176,6 +176,11 @@
         "population": null,
         "latitude": "20.833333",
         "longitude": "84.316667"
+    },
+     "allahabad": {
+        "city": "allahabad",
+        "latitude": "25.4358011",
+        "longitude": "81.84631100000001"
     },
   "assam": {
       "city": "assam",
@@ -2400,6 +2405,14 @@
     "latitude": "16.172536",
     "longitude": "75.655721"
   },
+  "bagalkot": {
+        "city": "bagalkot",
+        "accentcity": "Bagalkot",
+        "region": "19",
+        "population": "97277",
+        "latitude": "16.183333",
+        "longitude": "75.7"
+    },
   "ballari": {
     "city": "ballari",
     "accentcity": "Ballari",
@@ -3688,10 +3701,15 @@
     "latitude": "20.85",
     "longitude": "85.1"
   },
-  "boudh": {
-    "city": "boudh",
-    "latitude": "20.841821",
-    "longitude": "84.320018"
+  "kullu": {
+    "city": "kullu",
+    "latitude": "31.8246",
+    "longitude": "77.4702"
+  },
+  "lawngtlai": {
+    "city": "lawngtlai",
+    "latitude": "22.3114",
+    "longitude": "92.6984"
   },
   "bargarh": {
     "city": "bargarh",
