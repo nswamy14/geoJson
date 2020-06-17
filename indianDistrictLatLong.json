@@ -4,6 +4,179 @@
       "latitude": "15.9128998",
       "longitude": "79.73998749999998"
   },
+  "bagalkote": {
+        "city": "bagalkote",
+        "latitude": "16.1691",
+        "longitude": "75.6615"
+    },
+    "gadchiroli": {
+        "city": "gadchiroli",
+        "latitude": "19.4969",
+        "longitude": "80.2767"
+    },
+    "boudh": {
+        "city": "boudh",
+        "latitude": "20.841821",
+        "longitude": "84.320018"
+    },
+    "chamrajnagar": {
+        "city": "chamrajnagar",
+        "accentcity": "Chamrajnagar",
+        "region": "19",
+        "population": "67998",
+        "latitude": "11.916667",
+        "longitude": "76.95"
+    },
+    "champhai": {
+        "city": "champhai",
+        "latitude": "23.4566",
+        "longitude": "93.3282"
+    },
+    "debagarh": {
+        "city": "debagarh",
+        "latitude": "21.5383",
+        "longitude": "84.7289"
+    },
+    "garhchiroli": {
+        "city": "garhchiroli",
+        "accentcity": "Garhchiroli",
+        "region": "16",
+        "population": null,
+        "latitude": "20.166667",
+        "longitude": "80"
+    },
+    "garhwal": {
+        "city": "garhwal",
+        "accentcity": "Garhwal",
+        "region": "39",
+        "population": null,
+        "latitude": "29.8",
+        "longitude": "78.616667"
+    },
+    "dohad": {
+        "city": "dohad",
+        "accentcity": "Dohad",
+        "region": "09",
+        "population": null,
+        "latitude": "22.833333",
+        "longitude": "74.266667"
+    },
+    "hardwar": {
+        "city": "hardwar",
+        "accentcity": "Hardwar",
+        "region": "39",
+        "population": null,
+        "latitude": "29.966667",
+        "longitude": "78.166667"
+    },
+    "mahbubnagar": {
+        "city": "mahbubnagar",
+        "accentcity": "Mahbubnagar",
+        "region": "02",
+        "population": "136150",
+        "latitude": "16.733333",
+        "longitude": "77.983333"
+    },
+    "maldah": {
+        "city": "maldah",
+        "accentcity": "Maldah",
+        "region": "28",
+        "population": null,
+        "latitude": "25.033333",
+        "longitude": "88.15"
+    },
+    "hugli": {
+        "city": "hugli",
+        "accentcity": "Hugli",
+        "region": "28",
+        "population": null,
+        "latitude": "22.895556",
+        "longitude": "88.4025"
+    },
+    "jagatsinghapur": {
+        "city": "jagatsinghapur",
+        "accentcity": "Jagatsinghapur",
+        "region": "21",
+        "population": "32948",
+        "latitude": "20.266667",
+        "longitude": "86.166667"
+    },
+    "jalor": {
+        "city": "jalor",
+        "accentcity": "Jalor",
+        "region": "24",
+        "population": "49686",
+        "latitude": "25.35",
+        "longitude": "72.616667"
+    },
+    "jhunjhunun": {
+        "city": "jhunjhunun",
+        "accentcity": "Jhunjhunun",
+        "region": "24",
+        "population": "113201",
+        "latitude": "28.133333",
+        "longitude": "75.4"
+    },
+    "faizabad": {
+        "city": "faizabad",
+        "accentcity": "Faizabad",
+        "region": "36",
+        "population": "153062",
+        "latitude": "26.783333",
+        "longitude": "82.133333"
+    },
+    "gondiya": {
+        "city": "gondiya",
+        "latitude": "21.4549",
+        "longitude": "80.1961"
+    },
+    "gurgaon": {
+        "city": "gurgaon",
+        "accentcity": "Gurgaon",
+        "region": "16",
+        "population": null,
+        "latitude": "19.333333",
+        "longitude": "77.283333"
+    },
+    "haora": {
+        "city": "haora",
+        "accentcity": "Haora",
+        "region": "28",
+        "population": "1027771",
+        "latitude": "22.589167",
+        "longitude": "88.310278"
+    },
+    "boudh": {
+        "city": "boudh",
+        "latitude": "20.841821",
+        "longitude": "84.320018"
+    },
+    "boudh": {
+        "city": "boudh",
+        "latitude": "20.841821",
+        "longitude": "84.320018"
+    },
+    "mysore": {
+        "city": "mysore",
+        "latitude": "12.2958",
+        "longitude": "76.6394"
+    },
+    "barddhaman": {
+        "city": "barddhaman",
+        "accentcity": "Barddhaman",
+        "region": "28",
+        "population": "301754",
+        "latitude": "23.240556",
+        "longitude": "87.869444"
+    },
+    "bauda": {
+        "city": "bauda",
+        "accentcity": "Bauda",
+        "region": "21",
+        "population": null,
+        "latitude": "20.833333",
+        "longitude": "84.316667"
+    },
   "assam": {
       "city": "assam",
       "latitude": "26.2006",
@@ -15,6 +188,11 @@
       "longitude": "80.0981869"
   },
   "andaman and nicobar islands": {
+      "city": "andaman and nicobar islands",
+      "latitude": "11.7401",
+      "longitude": "92.6586"
+  },
+  "andaman & nicobar islands": {
       "city": "andaman and nicobar islands",
       "latitude": "11.7401",
       "longitude": "92.6586"
@@ -51,6 +229,11 @@
   },
   "jammu and kashmir": {
      "city": "jammu and kashmir",
+      "latitude": "33.7782",
+      "longitude": "76.5762"
+  },
+  "jammu & kashmir": {
+     "city": "jammu & kashmir",
       "latitude": "33.7782",
       "longitude": "76.5762"
   },
@@ -373,6 +556,22 @@
     "latitude": "17.6140",
     "longitude": "78.0816"
   },
+  "warangal": {
+        "city": "warangal",
+        "accentcity": "Warangal",
+        "region": "02",
+        "population": "557864",
+        "latitude": "18",
+        "longitude": "79.583333"
+    },
+    "nagappattinam": {
+        "city": "nagappattinam",
+        "accentcity": "Nagappattinam",
+        "region": "25",
+        "population": null,
+        "latitude": "10.766667",
+        "longitude": "79.833333"
+    },
   "warangal urban": {
     "city": "warangal urban",
     "latitude": "17.9744",
@@ -403,11 +602,19 @@
     "latitude": "26.4922",
     "longitude": "89.5320"
   },
-  "dadra and nagar haveli": {
-    "city": "dadra and nagar haveli",
+  "dadra & nagar haveli": {
+    "city": "Dadra & Nagar haveli",
     "latitude": "20.1809",
     "longitude": "73.0169"
   },
+  "darjiling": {
+        "city": "darjiling",
+        "accentcity": "Darjiling",
+        "region": "28",
+        "population": "123808",
+        "latitude": "27.033333",
+        "longitude": "88.266667"
+    },
   "peren": {
     "city": "peren",
     "latitude": "25.5125",
