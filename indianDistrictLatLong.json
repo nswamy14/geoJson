@@ -19,6 +19,27 @@
         "latitude": "20.841821",
         "longitude": "84.320018"
     },
+    "angul": {
+        "city": "angul",
+        "latitude": "20.8444",
+        "longitude": "85.1511"
+    },
+    "saran": {
+        "city": "saran",
+        "latitude": "25.8560",
+        "longitude": "84.8568"
+    },
+    "boudh": {
+        "city": "boudh",
+        "latitude": "20.841821",
+        "longitude": "84.320018"
+    },
+    "boudh": {
+        "city": "boudh",
+        "latitude": "20.841821",
+        "longitude": "84.320018"
+    },
+
     "chamrajnagar": {
         "city": "chamrajnagar",
         "accentcity": "Chamrajnagar",
@@ -1083,14 +1104,6 @@
     "city": "rohtas",
     "latitude": "24.628741",
     "longitude": "83.920166"
-  },
-  "saran": {
-    "city": "saran",
-    "accentcity": "Saran",
-    "region": "34",
-    "population": null,
-    "latitude": "24.483333",
-    "longitude": "86.3"
   },
   "siwan": {
     "city": "siwan",
@@ -2437,13 +2450,21 @@
     "latitude": "12.983333",
     "longitude": "77.583333"
   },
+  "bengaluru urban": {
+    "city": "bengaluru urban",
+    "accentcity": "Bengaluru urban",
+    "region": "19",
+    "population": null,
+    "latitude": "12.983333",
+    "longitude": "77.583333"
+  },
   "bengaluru rural": {
     "city": "bengaluru rural",
     "accentcity": "Bengaluru",
     "region": "19",
     "population": null,
-    "latitude": "12.983333",
-    "longitude": "77.583333"
+    "latitude": "13.2847",
+    "longitude": "77.6078"
   },
   "bidar": {
     "city": "bidar",
